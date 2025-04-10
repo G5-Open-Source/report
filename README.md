@@ -157,21 +157,81 @@ BeCode es una plataforma para ayudar a programadores Freelancers y a equipo de p
 ### 1.2.1 Antecedentes y problemática
 #### Antecedentes:
 Las plataformas de trabajo freelance han evolucionado significativamente desde sus inicios. Empresas como Elance (fundada en 1999) y oDesk (fundada en 2003) fueron pioneras en conectar a freelancers con empleadores en línea. Estas dos compañías se fusionaron en 2013 para formar Elance-oDesk, que posteriormente se rebrandeó como Upwork en 2015. Otra plataforma destacada es Fiverr, lanzada en 2010, que inicialmente ofrecía servicios a partir de $5, permitiendo a los freelancers publicar una variedad de servicios digitales. PeoplePerHour, establecida en 2007 en el Reino Unido, también ha sido una plataforma clave en el mercado freelance.​
-#### Problematica: 
-Falta de transparencia y control de calidad: La ausencia de mecanismos efectivos de control de calidad puede llevar a una experiencia inconsistente para los clientes, con trabajos de calidad variable y dificultades para encontrar el profesional adecuado. Esto puede resultar en pérdida de confianza en la plataforma.​
 
-Altas tarifas y costos adicionales: Muchas plataformas cobran tarifas tanto a freelancers como a empleadores, lo que puede ser costoso para ambas partes. Estas tarifas pueden afectar la rentabilidad y la satisfacción de los usuarios.
+Sin embargo se llegaron a identificar varias problematicas que comprometen los servicios de estas aplicaciones, las cuales serian:
 
-Riesgo de fraude y profesionales no calificados: La falta de procesos de verificación rigurosos puede permitir que individuos sin las habilidades necesarias o con intenciones fraudulentas se registren en la plataforma, lo que puede resultar en trabajos de baja calidad o estafas.
+- Falta de transparencia y control de calidad: La ausencia de mecanismos efectivos de control de calidad puede llevar a una experiencia inconsistente para los clientes, con trabajos de calidad variable y dificultades para encontrar el profesional adecuado. Esto puede resultar en pérdida de confianza en la plataforma.​
 
-Problemas de comunicación y compromiso: Dado que muchos freelancers trabajan en múltiples proyectos simultáneamente, pueden surgir problemas relacionados con la falta de compromiso y comunicación efectiva, lo que puede afectar la entrega puntual y la calidad del trabajo.
+- Altas tarifas y costos adicionales: Muchas plataformas cobran tarifas tanto a freelancers como a empleadores, lo que puede ser costoso para ambas partes. Estas tarifas pueden afectar la rentabilidad y la satisfacción de los usuarios.
 
-Saturación del mercado y competencia intensa: El crecimiento del número de plataformas y freelancers ha llevado a una competencia feroz, lo que dificulta que las plataformas nuevas se destaquen y que los freelancers consigan proyectos adecuados.
+- Riesgo de fraude y profesionales no calificados: La falta de procesos de verificación rigurosos puede permitir que individuos sin las habilidades necesarias o con intenciones fraudulentas se registren en la plataforma, lo que puede resultar en trabajos de baja calidad o estafas.
 
-Dependencia de algoritmos y sistemas de revisión: Los freelancers a menudo dependen de sistemas de revisión y algoritmos que pueden ser opacos o injustos, afectando su visibilidad y oportunidades de trabajo. Por ejemplo, cambios en la promoción de servicios debido a "problemas de calidad" no especificados han reducido drásticamente los ingresos de algunos freelancers.​
+- Problemas de comunicación y compromiso: Dado que muchos freelancers trabajan en múltiples proyectos simultáneamente, pueden surgir problemas relacionados con la falta de compromiso y comunicación efectiva, lo que puede afectar la entrega puntual y la calidad del trabajo.
+
+- Saturación del mercado y competencia intensa: El crecimiento del número de plataformas y freelancers ha llevado a una competencia feroz, lo que dificulta que las plataformas nuevas se destaquen y que los freelancers consigan proyectos adecuados.
+
+- Dependencia de algoritmos y sistemas de revisión: Los freelancers a menudo dependen de sistemas de revisión y algoritmos que pueden ser opacos o injustos, afectando su visibilidad y oportunidades de trabajo. Por ejemplo, cambios en la promoción de servicios debido a "problemas de calidad" no especificados han reducido drásticamente los ingresos de algunos freelancers.​
 
 Estas problemáticas resaltan la importancia de implementar controles de calidad efectivos, estructuras de tarifas transparentes y mecanismos de comunicación claros para garantizar una experiencia satisfactoria tanto para freelancers como para empleadores en las plataformas de trabajo freelance.
 
+Por otro lado, se utilizó la metodología ‘5W y 2H' para describir a detalle el problema que se busca solucionar y los puntos principales respondiendo estas 7 preguntas: ¿qué?, ¿por qué?, ¿a quiénes?, ¿dónde?, ¿cuándo?, ¿cómo?, y ¿cuánto?
+
+- ¿Qué?
+
+¿Qué es BeCode?
+
+Una plataforma web para contratar programadores freelance o equipos de desarrollo por horas, donde los usuarios puedan contratar mediante membresías.
+
+- ¿Por qué?
+
+¿Por qué es necesario una aplicación como esa?
+
+Porque los programadores necesitan visibilidad justa y acceso a oportunidades sin depender de algoritmos poco claros, y los clientes necesitan seguridad sobre la calidad del servicio sin pagar comisiones excesivas.
+Además, hay una saturación de plataformas sin diferenciación real, y muchas no ofrecen modelos flexibles como el pago por membresía o garantías de calidad.
+
+- ¿A quiénes?
+
+¿A quiénes va dirigido la aplicación?
+
+1. Clientes (empresas o particulares) que buscan contratar programadores de calidad sin riesgos ni sobrecostos.
+
+2. Programadores freelance o equipos pequeños que desean vender sus servicios sin depender de algoritmos o pagar comisiones excesivas.
+
+- ¿Dónde?
+
+¿Dónde se puede acceder a la aplicación?
+
+Plataforma web accesible globalmente, con enfoque inicial en mercados emergentes como Latinoamérica, donde hay mucho talento tech freelance, pero pocas plataformas locales robustas.
+
+- ¿Cuándo?
+
+¿Cuándo comienzan sus operaciones?
+
+Durante todo el año, con especial atención a períodos de alta demanda de desarrollo como fines de ciclo académico, lanzamientos de productos (Q2 y Q4) y temporadas de planificación de proyectos (enero, septiembre).
+
+- ¿Cómo?
+
+¿Cómo lograremos darle una identidad propia a nuestra aplicación?
+
+1. Implementando un modelo de membresía para clientes, que cubra los pagos de programadores sin necesidad de comisiones por proyecto.
+
+2. Verificando perfiles mediante tests técnicos, portafolios y entrevistas breves automatizadas.
+
+3. Ofreciendo a los freelancers un perfil tipo Marketplace, donde muestren conocimientos, certificaciones, y tarifas horarias.
+
+4. Usando IA para conectar clientes con programadores compatibles, pero permitiendo búsqueda libre.
+
+5. Con un sistema de garantía de satisfacción (por ejemplo: reembolso o reemplazo del programador en caso de bajo desempeño).
+
+- ¿Cuánto?
+
+¿Cuánto sería el costo de las funciones de la aplicación?
+
+Costo de desarrollo estimado de MVP: $10,000 – $25,000 USD (según funcionalidades y país de desarrollo).
+
+Membresía para clientes: desde $19.99/mes para pequeñas contrataciones, hasta $99.99/mes para empresas con más requerimientos.
+
+Costo para freelancers: sin comisiones por proyecto; solo pago opcional por funcionalidades premium (ej. destacarse en búsquedas, métricas de rendimiento, etc.).
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
