@@ -23,7 +23,7 @@ Desarrollo de aplicaciones Open Source <br>
 |--------------------------------------|--------------|
 |      |   |
 |         |   |
-|           |   |
+|    Kael Lagos       |  U202210104 |
 |      |   |
 |      |    |
 
@@ -141,16 +141,37 @@ TB1:
 
 ## 1.1 Start-Up Profile
 ### 1.1.1. Descripción de la Startup
-
+BeCode es una plataforma para ayudar a programadores Freelancers y a equipo de programación pequeños a poder encontrar inversores con ideas para que se les pueda desarrollar funcionando como un estilo de Market Place. Asimismo se añadiran funcionalidades para los programadores o inversores que les permita comunicarse abiertamente, definir sus ideas y trabajar en conjunto.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-
-
+| Foto                       | Alumno       | Descripción        |
+|---------------------------|--------------|-------------------|
+|   |  |  |
+|    |   |    |
+|  ![Kael_Foto](Imagenes/Kael_Foto.jpg)  |  Kael Lagos Rivera  |  Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo y que nos pueda asegurar una buena nota final.   |
+|    |    |     |
+|    |    |     |
+|    |    |     |
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+#### Antecedentes:
+Las plataformas de trabajo freelance han evolucionado significativamente desde sus inicios. Empresas como Elance (fundada en 1999) y oDesk (fundada en 2003) fueron pioneras en conectar a freelancers con empleadores en línea. Estas dos compañías se fusionaron en 2013 para formar Elance-oDesk, que posteriormente se rebrandeó como Upwork en 2015. Otra plataforma destacada es Fiverr, lanzada en 2010, que inicialmente ofrecía servicios a partir de $5, permitiendo a los freelancers publicar una variedad de servicios digitales. PeoplePerHour, establecida en 2007 en el Reino Unido, también ha sido una plataforma clave en el mercado freelance.​
+#### Problematica: 
+Falta de transparencia y control de calidad: La ausencia de mecanismos efectivos de control de calidad puede llevar a una experiencia inconsistente para los clientes, con trabajos de calidad variable y dificultades para encontrar el profesional adecuado. Esto puede resultar en pérdida de confianza en la plataforma.​
 
-### Descripción de la Problemática
+Altas tarifas y costos adicionales: Muchas plataformas cobran tarifas tanto a freelancers como a empleadores, lo que puede ser costoso para ambas partes. Estas tarifas pueden afectar la rentabilidad y la satisfacción de los usuarios.
+
+Riesgo de fraude y profesionales no calificados: La falta de procesos de verificación rigurosos puede permitir que individuos sin las habilidades necesarias o con intenciones fraudulentas se registren en la plataforma, lo que puede resultar en trabajos de baja calidad o estafas.
+
+Problemas de comunicación y compromiso: Dado que muchos freelancers trabajan en múltiples proyectos simultáneamente, pueden surgir problemas relacionados con la falta de compromiso y comunicación efectiva, lo que puede afectar la entrega puntual y la calidad del trabajo.
+
+Saturación del mercado y competencia intensa: El crecimiento del número de plataformas y freelancers ha llevado a una competencia feroz, lo que dificulta que las plataformas nuevas se destaquen y que los freelancers consigan proyectos adecuados.
+
+Dependencia de algoritmos y sistemas de revisión: Los freelancers a menudo dependen de sistemas de revisión y algoritmos que pueden ser opacos o injustos, afectando su visibilidad y oportunidades de trabajo. Por ejemplo, cambios en la promoción de servicios debido a "problemas de calidad" no especificados han reducido drásticamente los ingresos de algunos freelancers.​
+
+Estas problemáticas resaltan la importancia de implementar controles de calidad efectivos, estructuras de tarifas transparentes y mecanismos de comunicación claros para garantizar una experiencia satisfactoria tanto para freelancers como para empleadores en las plataformas de trabajo freelance.
+
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
