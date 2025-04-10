@@ -148,7 +148,7 @@ BeCode es una plataforma para ayudar a programadores Freelancers y a equipo de p
 |---------------------------|--------------|-------------------|
 |   |  |  |
 |    |   |    |
-|  ![Kael_Foto](Imagenes/Kael_Foto.jpg)  |  Kael Lagos Rivera  |  Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo y que nos pueda asegurar una buena nota final.   |
+|  ![Kael_Foto](Imagenes/Kael_Foto.jpg)  |  Kael Lagos Rivera  |  Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final.   |
 |    |    |     |
 |    |    |     |
 |    |    |     |
@@ -180,7 +180,7 @@ Por otro lado, se utilizó la metodología ‘5W y 2H' para describir a detalle 
 
 ¿Qué es BeCode?
 
-Una plataforma web para contratar programadores freelance o equipos de desarrollo por horas, donde los usuarios puedan contratar mediante membresías.
+BeCode es una plataforma web para contratar programadores freelance o equipos de desarrollo por horas, donde los usuarios puedan contratar mediante membresías.
 
 - ¿Por qué?
 
