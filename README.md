@@ -144,14 +144,14 @@ TB1:
 BeCode es una plataforma para ayudar a programadores Freelancers y a equipo de programación pequeños a poder encontrar inversores con ideas para que se les pueda desarrollar funcionando como un estilo de Market Place. Asimismo se añadiran funcionalidades para los programadores o inversores que les permita comunicarse abiertamente, definir sus ideas y trabajar en conjunto.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| Foto                       | Alumno       | Descripción        |
-|---------------------------|--------------|-------------------|
-|   |  |  |
-|    |   |    |
-|  ![Kael_Foto](Imagenes/Kael_Foto.jpg)  |  Kael Lagos Rivera  |  Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final.   |
-|    |    |     |
-|    |    |     |
-|    |    |     |
+| Foto                                 | Alumno            | Descripción                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                      |                   |                                                                                                                                                                                                                                                                                                                                                                              |
+|                                      |                   |                                                                                                                                                                                                                                                                                                                                                                              |
+| ![Kael_Foto](Imagenes/Kael_Foto.jpg) | Kael Lagos Rivera | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
+|                                      |                   |                                                                                                                                                                                                                                                                                                                                                                              |
+|                                      |                   |                                                                                                                                                                                                                                                                                                                                                                              |
+|                                      |                   |                                                                                                                                                                                                                                                                                                                                                                              |
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
@@ -269,10 +269,70 @@ Costo para freelancers: sin comisiones por proyecto; solo pago opcional por func
 ## 2.4. Ubiquitous Language
 
 # Capitulo 3
+
+Este capítulo está dedicado a la especificación de los requisitos de **BeCode**, tanto funcionales como no funcionales. A través de diferentes herramientas de análisis, se define cómo debe comportarse la plataforma para satisfacer las necesidades de los programadores freelance, equipos de desarrollo y clientes o inversores. Se busca garantizar que funcionalidades clave como la validación de perfiles, los modelos de contratación flexibles y la comunicación efectiva entre ambas partes sean implementadas correctamente. Este capítulo establece las bases para el desarrollo de un sistema útil, confiable y eficiente, que promueva relaciones laborales justas y proyectos exitosos dentro del ecosistema digital latinoamericano.
 ## 3.1. To-Be Scenario Mapping
+
+El **To-Be Scenario Mapping** presenta el escenario futuro ideal después de la implementación de **BeCode**. En este escenario, tanto programadores freelance como clientes o inversores podrán interactuar dentro de la plataforma para conectar, definir proyectos y trabajar de forma colaborativa y eficiente. La plataforma facilitará la contratación mediante membresías, asegurará la calidad a través de verificaciones técnicas, y promoverá la transparencia y comunicación directa entre ambas partes. Este mapa muestra cómo BeCode transformará el modelo actual de plataformas freelance, resolviendo las problemáticas previamente identificadas y optimizando la experiencia para todos los involucrados.
+
+**Segmento Cliente/Inversor**
+
+![Diego_Foto1](Imagenes/ToBeScenarioMappingClienteInversor.jpg)
+
+**Segmento Freelancer/Equipo**
+
+![Diego_Foto2](Imagenes/ToBeScenarioMappingFreelancerEquipo.jpg)
 ## 3.2. User Stories
+
+Las **User Stories** representan los **requisitos funcionales** de **BeCode** desde la perspectiva de los **desarrolladores freelance** y los **clientes o inversores**. Cada historia de usuario describe una interacción específica que los usuarios necesitan realizar, como _"registrarse como programador y completar su portafolio"_ o _"filtrar programadores por habilidades y experiencia"_. Estas historias se desglosan en tareas concretas que guiarán el desarrollo de la plataforma, asegurando que se cumplan las **necesidades reales y expectativas de los usuarios finales**, y que BeCode brinde una experiencia eficiente, justa y centrada en el valor de las conexiones profesionales.
+
+| **User Story ID** | **Título**                 | **Descripción**                                                                                    | **Criterios de Aceptación**                                                                                                                                                                                                                                                                     | **Epic ID** |
+| ----------------- | -------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| US-01             | Sección About Us           | Como visitante, quiero conocer más sobre la plataforma BeCode para entender cómo conecta personas. | **Escenario 1:** Visualizar información<br><br>  <br>Dado que el visitante accede a "About Us"<br><br>Entonces se muestra información clara sobre misión, visión y funcionamiento.<br><br>  <br>**Escenario 2:** Call to Action<br><br>  <br>Se muestra un botón para registrarse en BeCode.    | EP-01       |
+| US-02             | Sección Beneficios         | Como visitante, quiero ver los beneficios de usar BeCode para evaluar si es conveniente para mí.   | **Escenario 1:** Ver beneficios<br><br>  <br>Dado que el visitante accede a la sección<br><br>Entonces se muestran puntos clave como validación de talento, seguridad y flexibilidad.<br><br>  <br>**Escenario 2:** CTA contextual<br><br>  <br>Se muestra un botón para unirse a la comunidad. | EP-01       |
+| US-03             | Comparación de Membresías  | Como visitante, quiero comparar membresías para elegir la más adecuada.                            | **Escenario 1:** Ver tabla comparativa<br><br>  <br>Se muestra tabla con precios y beneficios.  <br>**Escenario 2:** Selección de plan<br><br>  <br>Al seleccionar un plan<br><br>Se redirige al registro con el plan preseleccionado.                                                          | EP-01       |
+| US-04             | Sección de Contacto        | Como visitante, quiero poder contactar a BeCode desde la landing page para resolver dudas.         | **Escenario 1:** Enviar formulario de contacto<br><br>  <br>Al enviar, se muestra mensaje de confirmación.<br><br>  <br>**Escenario 2:** Medios alternativos<br><br>  <br>Se muestran otras vías de contacto como email o redes.                                                                | EP-01       |
+| US-05             | Sección de Testimonios     | Como visitante, quiero leer testimonios de usuarios para conocer su experiencia.                   | **Escenario 1:** Visualizar testimonios<br><br>  <br>Se muestran experiencias reales.<br><br>  <br>**Escenario 2:** Filtrar testimonios<br><br>  <br>Se puede filtrar por tipo de usuario (cliente o desarrollador).                                                                            | EP-01       |
+| US-06             | Preguntas Frecuentes (FAQ) | Como visitante, quiero resolver dudas accediendo a la sección de FAQ.                              | **Escenario 1:** Acceso a FAQs<br><br>  <br>Se muestran preguntas frecuentes.<br><br>  <br>**Escenario 2:** Derivación a contacto<br><br>  <br>Si no encuentra respuesta, se redirige al formulario de contacto.                                                                                | EP-01       |
+| US-07             | Registro de Freelancers    | Como desarrollador, quiero registrarme para ofrecer mis servicios.                                 | **Escenario 1:** Registro exitoso<br><br>  <br>Al completar los datos, se crea la cuenta.<br><br>  <br>**Escenario 2:** Validación de habilidades<br><br>  <br>Puede completar su perfil técnico y portafolio.                                                                                  | EP-02       |
+| US-08             | Registro de Clientes       | Como cliente, quiero registrarme para publicar necesidades de proyectos.                           | **Escenario 1:** Completar registro<br><br>  <br>Se crea cuenta y accede al dashboard.<br><br>  <br>**Escenario 2:** Publicar primer proyecto<br><br>  <br>Se ofrece asistente para publicación inicial.                                                                                        | EP-02       |
+| US-09             | Filtrar Freelancers        | Como cliente, quiero filtrar programadores por habilidades o experiencia.                          | **Escenario 1:** Usar filtros avanzados<br><br>  <br>Puede filtrar por lenguaje, experiencia y país.<br><br>  <br>**Escenario 2:** Guardar favoritos<br><br>  <br>Puede guardar perfiles para futuras contrataciones.                                                                           | EP-03       |
+| US-10             | Visualización de Proyectos | Como desarrollador, quiero ver proyectos adecuados a mis habilidades.                              | **Escenario 1:** Ver proyectos compatibles<br><br>  <br>Se muestran proyectos según el perfil.<br><br>  <br>**Escenario 2:** Postulación sencilla<br><br>  <br>Puede postularse directamente desde el proyecto con una propuesta personalizada.                                                 | EP-03       |
+
+**EPICS**
+
+Las Epics que identificamos son las siguientes:
+
+
+**Desarrollo de las Epics**
+
+| **Epic ID** | **Título**                  | **Descripción**                                                                                                                                                                        |
+| ----------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP-01       | Desarrollo del Landing Page | Se centra en la creación y optimización del sitio web principal que presenta BeCode, incluyendo información clave sobre la plataforma, beneficios, planes y medios de contacto.        |
+| EP-02       | Desarrollo del Backend      | Se enfoca en la lógica de negocio, estructuras de datos, endpoints y funcionalidades que permitirán la operación del marketplace, como creación de perfiles, publicaciones y búsqueda. |
+| EP-03       | Autenticación y Registro    | Abarca el proceso de registro e inicio de sesión tanto para freelancers como para clientes, asegurando validación, seguridad y flujos diferenciados según el tipo de usuario.          |
+
 ## 3.3. Impact Mapping
+
+En la técnica de **Impact Mapping**, conectamos los **objetivos de negocio** con las **soluciones técnicas** de nuestra plataforma BeCode. Esto nos permite identificar a los **actores clave**, como los programadores freelance, equipos pequeños, y los clientes o inversores, y comprender cómo sus acciones impactan en los objetivos comerciales. De esta forma, aseguramos que las funcionalidades que desarrollamos realmente generan valor para el negocio y están alineadas con los resultados esperados, como proporcionar visibilidad justa para los programadores y una experiencia segura y eficiente para los clientes.
+
+_Impact Mapping Cliente/Inversor_
+
+![Diego_Foto3](Imagenes/ImpactMappingCliente.png)
+
+_Impact Mapping Freelancer/Equipo_
+
+![Diego_Foto4](Imagenes/ImpactMappingProgramador.png)
 ## 3.4. Product Backlog
+
+Product Backlog es una herramienta fundamental en el marco de trabajo ágil, particularmente en metodologías como **Scrum**. El backlog actúa como una fuente de verdad que define lo que el equipo de desarrollo necesita trabajar en el producto para entregar valor a los usuarios o clientes.
+
+| **# Orden** | **User Story ID** | **Título**                | **Descripción**                                                                                                                       | **Story Points (1/2/3/5/8)** |
+| ----------- | ----------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 1           | US-01             | Sección About Us          | Como visitante, quiero conocer más sobre la plataforma BeCode para entender cómo conecta personas y cómo funciona.                    | 5                            |
+| 2           | US-02             | Sección Beneficios        | Como visitante, quiero ver los beneficios de usar BeCode para evaluar si es conveniente para mí como cliente o como programador.      | 5                            |
+| 3           | US-03             | Comparación de Membresías | Como visitante, quiero comparar las diferentes membresías disponibles para elegir la más adecuada para mis necesidades.               | 5                            |
+| 4           | US-04             | Sección de Contacto       | Como visitante, quiero poder contactar a BeCode desde la landing page para resolver dudas sobre el servicio o el proceso de registro. | 5                            |
 # Capitulo 4
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
