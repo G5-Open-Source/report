@@ -318,8 +318,21 @@ Toptal fue fundada en 2010 por Taso Du Val y Breanden Beneschott con el obje
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
+
+En la sección de Needfinding, se emplean diversas herramientas como UXPressia, LucidChart y Miro para identificar y comprender las necesidades, comportamientos y emociones de los usuarios potenciales mediante la creación de User Personas, User Task Matrix, User Journey Maps, Empathy Maps y As-Is Scenario Maps. Estos artefactos ayudan a capturar una visión detallada de los usuarios, sus objetivos, tareas y experiencias actuales sin la solución propuesta, lo que permite diseñar un producto alineado con sus expectativas reales. Además, se incluye un glosario de términos del dominio de negocio, garantizando una comunicación clara y coherente entre todos los miembros del equipo.
+
 ### 2.3.1. User Personas
+
+Segmento 1: Inversor
+
+![Inversor](Imagenes/Inversor.png)
+
+Segmento 2: Freelance
+
+![Freelance](Imagenes/Freelance.png)
+
 ### 2.3.2. User Task Matrix
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
