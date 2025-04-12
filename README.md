@@ -21,9 +21,9 @@ Desarrollo de aplicaciones Open Source <br>
 
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
-|      |   |
+|   Rodrigo Liberato Saldana   |   |
 |         |   |
-|    Kael Lagos       |  U202210104 |
+|    Kael Lagos Rivera       |  U202210104 |
 |      |   |
 |      |    |
 
@@ -316,6 +316,44 @@ Toptal fue fundada en 2010 por Taso Du Val y Breanden Beneschott con el obje
 12. ¿De que manera buscaría hacer esta aplicación segura?
 
 ### 2.2.2. Registro de entrevistas
+### **Sector Inversores**
+Entrevista 1:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
+Entrevista 2:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
+Entrevista 3:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
+----------------------
+### **Sector Freelancer**
+Entrevista 1:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
+Entrevista 2:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
+Entrevista 3:
+----------------------
+Nombre:
+
+Link de la entrevista:
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 
