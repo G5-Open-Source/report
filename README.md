@@ -417,6 +417,124 @@ Segmento 2: Freelance
 
 ### 2.3.2. User Task Matrix
 
+
+En esta sección se presenta el User Task Matrix para la plataforma BeCode, considerando dos segmentos objetivos (Freelance e Inversores). Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Tareas</th>
+      <th colspan="2">Freelance </th>
+      <th colspan="2">Inversor </th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Postular a un proyecto o idea</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+      <td>Nunca</td>
+      <td>Sin importancia</td>
+    </tr>
+    <tr>
+      <td>Revisar perfiles de inversores</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>Nunca</td>
+      <td>Sin importancia</td>
+    </tr>
+    <tr>
+      <td>Definir términos del acuerdo</td>
+      <td>Casi siempre</td>
+      <td>Alta</td>
+      <td>Casi siempre</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Chatear con el otro usuario</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Ver calificaciones o reseñas</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Publicar una idea o propuesta de negocio</td>
+      <td>Nunca</td>
+      <td>Sin importancia</td>
+      <td>Casi siempre</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Buscar talento según habilidades</td>
+      <td>Nunca</td>
+      <td>Sin importancia</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Realizar pagos o gestionar inversión</td>
+      <td>Nunca</td>
+      <td>Sin importancia</td>
+      <td>A veces</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Editar perfil profesional o de inversor</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Reportar usuarios o problemas</td>
+      <td>Casi nunca</td>
+      <td>Media</td>
+      <td>Casi nunca</td>
+      <td>Media</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tareas con mayor frecuencia e importancia para los freelancers:**
+
+- Postular a un proyecto y chatear con el otro usuario son actividades realizadas con siempre y tienen alta importancia, ya que forman parte del proceso activo de integración a un equipo.
+
+- Definir términos del acuerdo también es una tarea de alta prioridad, pues asegura que ambas partes estén alineadas desde el inicio.
+
+**Tareas con mayor frecuencia e importancia para los inversores:**
+
+- Publicar una idea o propuesta de negocio, Buscar talento según habilidades y Chatear con el otro usuario son tareas frecuentes y muy importantes, ya que representan el punto de partida para encontrar un equipo técnico confiable.
+
+- Definir términos del acuerdo también es clave para establecer compromisos y condiciones claras.
+
+**Principales Diferencias:**
+
+- Freelancers se enfocan en unirse a proyectos, comunicarse eficazmente y evaluar oportunidades.
+
+- Inversores priorizan la creación de ideas, la búsqueda de talento y la toma de decisiones estratégicas.
+
+**Coincidencias:**
+
+- Ambas partes valoran una comunicación constante y clara.
+
+- Definir términos del acuerdo es una necesidad compartida, crucial para asegurar el éxito y compromiso mutuo dentro del proyecto.
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
