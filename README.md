@@ -321,11 +321,15 @@ Entrevista 1:
 ----------------------
 Nombre:
 
+Capturas:
+
 Link de la entrevista:
 
 Entrevista 2:
 ----------------------
 Nombre:
+
+Capturas:
 
 Link de la entrevista:
 
@@ -333,17 +337,23 @@ Entrevista 3:
 ----------------------
 Nombre:
 
+Capturas:
+
 Link de la entrevista:
 
 Entrevista 4:
 ----------------------
 Nombre:
 
+Capturas:
+
 Link de la entrevista:
 
 Entrevista 5:
 ----------------------
 Nombre:
+
+Capturas:
 
 Link de la entrevista:
 
@@ -353,11 +363,15 @@ Entrevista 1:
 ----------------------
 Nombre:
 
+Capturas:
+
 Link de la entrevista:
 
 Entrevista 2:
 ----------------------
 Nombre:
+
+Capturas:
 
 Link de la entrevista:
 
@@ -365,11 +379,15 @@ Entrevista 3:
 ----------------------
 Nombre:
 
+Capturas:
+
 Link de la entrevista:
 
 Entrevista 4:
 ---------------------
 Nombre:
+
+Capturas:
 
 Link de la entrevista:
 
@@ -377,7 +395,11 @@ Entrevista 5:
 ----------------------
 Nombre:
 
+Capturas:
+
 Link de la entrevista:
+
+----------------------
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 
