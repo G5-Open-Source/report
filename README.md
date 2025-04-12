@@ -8,12 +8,12 @@
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
 Desarrollo de aplicaciones Open Source <br>
-<strong>Profesor:</strong> </p>
+<strong>Profesor: Rafael Oswaldo Castro Veramendi</strong> </p>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup:</h3>
-<p align="center"><strong>Producto:</strong></p>
+<h3 align="center">Startup: BeCode</h3>
+<p align="center"><strong>Producto: BeCodeApp</strong></p>
 
 <h3 align="center">Team Members:</h3>
 
