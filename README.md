@@ -335,6 +335,18 @@ Nombre:
 
 Link de la entrevista:
 
+Entrevista 4:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
+Entrevista 5:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
 ----------------------
 ### **Sector Freelancer**
 Entrevista 1:
@@ -350,6 +362,18 @@ Nombre:
 Link de la entrevista:
 
 Entrevista 3:
+----------------------
+Nombre:
+
+Link de la entrevista:
+
+Entrevista 4:
+---------------------
+Nombre:
+
+Link de la entrevista:
+
+Entrevista 5:
 ----------------------
 Nombre:
 
