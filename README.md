@@ -25,7 +25,7 @@ Desarrollo de aplicaciones Open Source <br>
 |         |   |
 |    Kael Lagos Rivera       |  U202210104 |
 |   Adriana Maria Diestra Zambrano   |  U202218110 |
-|      |    |
+|   Diego Antonio Seijas Vasquez |  U202210167  |
 
 </div>
 
