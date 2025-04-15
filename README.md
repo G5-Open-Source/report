@@ -591,6 +591,8 @@ Las **User Stories** representan los **requisitos funcionales** de **BeCode** de
 | US-13             | Gestión de Portafolio      | Como freelancer, quiero subir proyectos a mi perfil para mostrar mi experiencia previa.                                           | **Escenario 1:** Subir portafolio  <br>El freelancer puede agregar proyectos con descripción, imágenes y tecnologías usadas.  <br>  <br>**Escenario 2:** Editar o eliminar  <br>El usuario puede modificar o eliminar proyectos existentes en cualquier momento desde su perfil.                | EP-02       |
 | US-14             | Solicitar Reunión          | Como cliente, quiero solicitar reuniones con programadores para discutir detalles antes de contratarlos.                          | **Escenario 1:** Enviar solicitud  <br>El cliente puede agendar una reunión con fechas sugeridas desde el perfil del freelancer.  <br>  <br>**Escenario 2:** Confirmación automática  <br>Se envía confirmación al programador y se crea un evento en el dashboard con hora y enlace.           | EP-04       |
 | US-15             | Métricas de Desempeño      | Como freelancer, quiero ver métricas sobre mi rendimiento (respuestas, postulaciones, reputación) para mejorar mis oportunidades. | **Escenario 1:** Visualizar métricas  <br>Desde su perfil, el usuario puede ver datos como tasa de respuesta, postulaciones realizadas, y puntuación media.  <br>  <br>**Escenario 2:** Comparativa con promedio  <br>Se muestra un gráfico comparativo respecto al promedio de la plataforma.  | EP-05       |
+
+
 **EPICS**
 
 Las Epics que identificamos son las siguientes:
