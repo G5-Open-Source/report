@@ -323,6 +323,8 @@ Nombre:
 
 Capturas:
 
+Descripción:
+
 Link de la entrevista:
 
 Entrevista 2:
@@ -331,6 +333,8 @@ Nombre:
 
 Capturas:
 
+Descripción:
+
 Link de la entrevista:
 
 Entrevista 3:
@@ -338,6 +342,8 @@ Entrevista 3:
 Nombre:
 
 Capturas:
+
+Descripción:
 
 Link de la entrevista:
 
@@ -347,6 +353,8 @@ Nombre:
 
 Capturas:
 
+Descripción:
+
 Link de la entrevista:
 
 Entrevista 5:
@@ -355,23 +363,37 @@ Nombre:
 
 Capturas:
 
+Descripción:
+
 Link de la entrevista:
 
 ----------------------
 ### **Sector Freelancer**
 Entrevista 1:
 ----------------------
-Nombre:
+Nombre: Rodrigo Espezua
 
-Capturas:
+Capturas: <p align="center">
+  <img src="Imagenes/Captura 1.png" alt="Captura Rodrigo 1" />
+</p>
 
-Link de la entrevista:
+<p align="center">
+  <img src="Imagenes/Captura 2.png" alt="Captura Rodrigo 2" />
+</p>
+
+Descripción:
+
+En este video, se encuentra documentado la entrevista realizada a nuestro compañero Rodrigo Espezua el cual pertenece al sector Freelancer de nuestro proyecto llamado BeCode. Se le hicieron un total de 12 preguntas en las cuales le cuestionabamos ciertas cosas que están relacionadas a su rubro y tambien le pedimos su opinión para la implementación de ciertos elementos en nuestra App en desarrollo.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/EfgZDx8avzJEtrZ8pxw4OfwBVztqGqJU1ySxYRBXgeIxvQ?e=L54ysF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Entrevista 2:
 ----------------------
 Nombre:
 
 Capturas:
+
+Descripción:
 
 Link de la entrevista:
 
@@ -380,6 +402,8 @@ Entrevista 3:
 Nombre:
 
 Capturas:
+
+Descripción:
 
 Link de la entrevista:
 
@@ -389,6 +413,8 @@ Nombre:
 
 Capturas:
 
+Descripción:
+
 Link de la entrevista:
 
 Entrevista 5:
@@ -396,6 +422,8 @@ Entrevista 5:
 Nombre:
 
 Capturas:
+
+Descripción:
 
 Link de la entrevista:
 
