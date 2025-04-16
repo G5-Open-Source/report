@@ -407,28 +407,37 @@ Descripción:
 
 Link de la entrevista:
 
+### **Sector Inversor/gestor de proyectos**
+
 Entrevista 4:
 ---------------------
-Nombre:
+Nombre: Arturo Salinas
 
 Capturas:
+![Arturo Salinas](Imagenes/entrevistaproyecto1.png)
 
-Descripción:
+Descripción: Se entrevisto a un gestor de proyectos que nos cuenta su experiencia trabajando con freelancers y algunas recomendaciones que aplicaciones como la nuestra deberia de poseer.
 
-Link de la entrevista:
+Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ERg2A9-SC5ZMloZJ_sp-5T8BkzQn778j_t5QtH5qM3vMxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=noMDca)
 
 Entrevista 5:
 ----------------------
-Nombre:
+Nombre: Santiago Mena Adriazen
 
 Capturas:
+![Santiago Mena](Imagenes/entrevistaproyecto2.png)
 
-Descripción:
+Descripción: Otro gestor de proyectos que brinda comentarios acerca de las funcionalidades que deberiamos de agregar a la aplicacion ademas de guiarnos un poco mas al rumbo que debemos enfocarnos.
 
-Link de la entrevista:
+Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVa0oKq5V4hNqMY6MpJItYgBrZWmAH2X_H5WX1CeZuBM9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pBt7h0)
 
 ----------------------
 ### 2.2.3. Análisis de entrevistas
+#### Freelancers
+
+#### Gestor de proyectos
+En el lado de los gestores de proyectos identificamos que ellos realmente quieren una verificacion por parte de los freelancers, que sus conocimientos de los que contratan para los proyectos que necesitan sean los verdaderos para que su eficacia al momento de trabajar sea real y que obviamente puedan trabajar de forma colaborativa con una funcionalidad de seguimiento en proyectos. Por el lado economico, prefieren que los contratos con los freelancers sean flexibles en caso de haber algun conflicto entre su empresa y los freelancers. Asimismo, prefieren un sistema de ratings para sus empresas para un mejor reconocimiento y filtrado para encontrar lo que necesitan facilmente.
+
 ## 2.3. Needfinding
 
 En la sección de Needfinding, se emplean diversas herramientas como UXPressia, LucidChart y Miro para identificar y comprender las necesidades, comportamientos y emociones de los usuarios potenciales mediante la creación de User Personas, User Task Matrix, User Journey Maps, Empathy Maps y As-Is Scenario Maps. Estos artefactos ayudan a capturar una visión detallada de los usuarios, sus objetivos, tareas y experiencias actuales sin la solución propuesta, lo que permite diseñar un producto alineado con sus expectativas reales. Además, se incluye un glosario de términos del dominio de negocio, garantizando una comunicación clara y coherente entre todos los miembros del equipo.
