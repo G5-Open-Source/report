@@ -389,13 +389,19 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210
 
 Entrevista 2:
 ----------------------
-Nombre:
+Nombre: Zuriel Andrea Rivera
 
-Capturas:
+Capturas: <p align="center">
+  <img src="Imagenes/Zuriel_imagen1.png" alt="Zuriel_imagen1" />
+</p>
 
-Descripción:
+<p align="center">
+  <img src="Imagenes/Zuriel_imagen2.png" alt="Zuriel_imagen2" />
+</p>
 
-Link de la entrevista:
+Descripción: Se entrevisto a una desarrolladora Freelancer que suele aceptar trabajos para el desarrollo de proyectos que normalmente están relacionado con fines de entretenimiento, aunque tambien suele aceptar trabajos formales. Se le hicieron un total de 12 preguntas en los cuales se le cuestionaba ciertos apartados de su rubro y que dificultades suele atravezar al momento de conseguir algún trabajo.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/EYbqz47T3oxMgJUprQ0oZdsBCviN1yAxNa9mxcUNmp64YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mO9WVz
 
 Entrevista 3:
 ----------------------
