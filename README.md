@@ -149,7 +149,7 @@ BeCode es una plataforma para ayudar a programadores Freelancers y a equipo de p
 | ![Rodrigo](Imagenes/rodrigo.png)           | Rodrigo Liberato Saldana       | Soy Rodrigo Liberato, estudiante de Ing. de software. Soy alguien optimista y decido a apoyar a cada miembro del equipo para lograr el mejor resultado. Asimismo, espero que mis habilidades puedan ser de utilidad para completar el trabajo de la forma mas efectiva.                                                                                                      |
 |                                            |                                |                                                                                                                                                                                                                                                                                                                                                                              |
 | ![Kael_Foto](Imagenes/Kael_Foto.jpg)       | Kael Lagos Rivera              | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
-| ![Adriana](Imagenes/Adriana.png)           | Adriana Maria Diestra Zambrano | Estudiante de la carrera Ingeniería de Software con interés en el desarrollo web, sobre todo en el lado frontend. Me gusta crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona con iniciativa, curiosa por aprender cosas nuevas y siempre con buena actitud para trabajar en equipo.                                                           |
+| ![Adriana](Imagenes/Adriana.png)           | Adriana Maria Diestra Zambrano | Estudiante de la carrera Ingeniería de Software con interés en el desarrollo web, sobre todo en el lado frontend. Me gusta crear interfaces ordenadas, intuitivas y visualmente atractivas. Proactiva, con gran interés por aprender cosas nuevas y con una actitud positiva que favorece el trabajo en equipo.                                                           |
 |                                            |                                |                                                                                                                                                                                                                                                                                                                                                                              |
 | ![Adriana](Imagenes/DiegoSeijasPerfil.jpg) | Diego Seijas Vasquez           | Soy Diego Seijas, estudiante de Ing. de software. Soy alguien lider y decido a apoyar a cada miembro del equipo para lograr el mejor resultado.                                                                                                                                                                                                                              |
 ## 1.2. Solution Profile
@@ -451,6 +451,8 @@ En la sección de Needfinding, se emplean diversas herramientas como UXPressia, 
 
 ### 2.3.1. User Personas
 
+Se presentan los perfiles de los Freelancers e Inversores que utilizarán nuestra plataforma de conexión profesional. Estos perfiles son fundamentales para comprender sus necesidades, motivaciones y desafíos específicos, permitiéndonos diseñar una solución que facilite la colaboración segura, eficiente y transparente en proyectos de alto impacto, mejorando la experiencia tanto en la contratación como en la ejecución del trabajo.
+
 Segmento 1: Inversor
 
 ![Inversor](Imagenes/Inversor.png)
@@ -460,7 +462,6 @@ Segmento 2: Freelance
 ![Freelance](Imagenes/Freelance.png)
 
 ### 2.3.2. User Task Matrix
-
 
 En esta sección se presenta el User Task Matrix para la plataforma BeCode, considerando dos segmentos objetivos (Freelance e Inversores). Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
 
@@ -597,7 +598,30 @@ Segmento 2: Freelance
 ![Empathy Mapping](Imagenes/Freelance_.png)
 
 ### 2.3.5. As-is Scenario Mapping
+
+Se describen los procesos actuales de los freelancers e inversores antes de la implementación de nuestra solución. Esto nos permite identificar ineficiencias en la comunicación, desconfianza en la gestión de proyectos y dificultades en la contratación, lo que abre oportunidades para mejorar la experiencia de colaboración y facilitar conexiones más seguras, claras y eficientes mediante nuestra tecnología.
+
+Segmento 1: Inversor
+
+![Empathy Mapping](Imagenes/Inversor__.png)
+
+Segmento 2: Freelance
+
+![Empathy Mapping](Imagenes/Freelance__.png)
+
 ## 2.4. Ubiquitous Language
+
+En esta sección, se definen los términos clave utilizados en el dominio de negocio de la plataforma que conecta freelancers con inversores, siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Estas definiciones tienen como objetivo garantizar una comunicación clara, coherente y compartida entre los miembros del equipo de desarrollo, stakeholders y usuarios, alineando el lenguaje técnico con las necesidades reales del negocio y facilitando la comprensión mutua durante el proyecto.
+
+1. **Freelancer:** Profesional independiente que ofrece sus servicios especializados a proyectos por contrato.
+2. **Inversor:** Persona que financia o impulsa un proyecto con una inversión económica y busca resultados claros.
+3. **Proyecto:**	Trabajo con objetivos definidos que requiere habilidades específicas y una planificación.
+4. **Postulación:**	Proceso en el que un freelancer se ofrece para participar en un proyecto publicado por un inversor.
+5. **Oferta de trabajo:**	Publicación creada por el inversor donde detalla el tipo de proyecto, requerimientos y presupuesto.
+6. **Contratación:** Acuerdo formal entre freelancer e inversor que define los términos de colaboración.
+7. **Entregable:**	Producto o resultado parcial/final que el freelancer debe entregar como parte del proyecto.
+8. **Evaluación:**	Valoración final de la experiencia del proyecto tanto para el freelancer como para el inversor.
+9. **Sistema de pagos:** Gestiona los pagos según hitos cumplidos o entregas validadas.
 
 # Capitulo 3
 
