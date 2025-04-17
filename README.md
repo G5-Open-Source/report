@@ -405,13 +405,14 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210
 
 Entrevista 3:
 ----------------------
-Nombre:
+Nombre: Cielo Rafaile
 
-Capturas:
+Capturas: 
+![Freelance](Imagenes/EntrevistaCielo.png)
 
-Descripción:
+Descripción: Se entrevistó a una diseñadora UX/UI freelance, quien compartió su experiencia trabajando desde casa y usando plataformas digitales para conseguir proyectos. Comentó sobre los desafíos actuales en su rubro, como la baja valoración del trabajo creativo y la fuerte competencia en apps globales. Además, destacó la importancia de la flexibilidad, pagos justos y la claridad en los acuerdos. Finalmente, brindó recomendaciones clave para una aplicación de este tipo, como perfiles verificados y sistema de pagos seguro.
 
-Link de la entrevista:
+Link de la entrevista: https://goo.su/cSor
 
 ### **Sector Inversor/gestor de proyectos**
 
