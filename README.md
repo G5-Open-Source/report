@@ -319,13 +319,19 @@ Toptal fue fundada en 2010 por Taso Du Val y Breanden Beneschott con el obje
 ### **Sector Inversores**
 Entrevista 1:
 ----------------------
-Nombre:
+Nombre: Roberto Carlos Figueroa
 
-Capturas:
+Capturas: <p align="center">
+  <img src="Imagenes/Roberto_imagen1.png" alt="Captura Rodrigo 1" />
+</p>
 
-Descripción:
+<p align="center">
+  <img src="Imagenes/Roberto_imagen2.png" alt="Captura Rodrigo 1" />
+</p>
 
-Link de la entrevista:
+Descripción: Para esta entrevista perteneciente al sector de inversores, se le cuestionó al señor Roberto Carlos Figueroa sobre los distintos retos que enfrenta al momento de encontrar a jovenes que puedan desarrollar los trabajos que se le asignan. Más que nada por la poca confianza que presentan algunos o la perdida de efectivo al ver como el trabajo no fue desarrollado según lo acordado, en la entrevista se busca evidenciar estos aspectos y tambien se le pregunta su opinión sobre algunas caracteristicas que le gustaria ver en una aplicación que busque arreglar estas carencias.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/ETEPgWB_PNpHnnNq7M0v1a0Bq9KLEf13R_26KDh3-W2Pxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Flnx61
 
 Entrevista 2:
 ----------------------
