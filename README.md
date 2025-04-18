@@ -326,7 +326,7 @@ Capturas: <p align="center">
 </p>
 
 <p align="center">
-  <img src="Imagenes/Roberto_imagen2.png" alt="Roberto_imagen1" />
+  <img src="Imagenes/Roberto_imagen2.png" alt="Roberto_imagen2" />
 </p>
 
 Descripción: Para esta entrevista perteneciente al sector de inversores, se le cuestionó al señor Roberto Carlos Figueroa sobre los distintos retos que enfrenta al momento de encontrar a jovenes que puedan desarrollar los trabajos que se le asignan. Más que nada por la poca confianza que presentan algunos o la perdida de efectivo al ver como el trabajo no fue desarrollado según lo acordado, en la entrevista se busca evidenciar estos aspectos y tambien se le pregunta su opinión sobre algunas caracteristicas que le gustaria ver en una aplicación que busque arreglar estas carencias.
