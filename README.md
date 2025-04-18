@@ -712,8 +712,66 @@ Product Backlog es una herramienta fundamental en el marco de trabajo ágil, par
 # Capitulo 4
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+
+Aquí se explica las decisiones y referencias visuales sobre conceptos generales
+básicos como Branding, Typography, Colors y Spacing, así como las dimensiones a
+adoptar para el tono de comunicación y lenguaje aplicado (Divertido/Serio,
+Formal/Casual, Respetuoso/Irreverente, Entusiasta/Sereno).
+
+1. Identidad visual:
+- Logo: Moderno, minimalista, con íconos que remiten a código o conexión
+
+Colores: 
+
+- Primario: Azul (#2D9CDB) – confianza y tecnología
+- Secundario: Gris oscuro (#333333) – profesionalismo
+- Complementario: Verde (#27AE60) – éxito, conexión lograda
+
+2. Tipografía:
+- Titulares: Poppins Bold – moderna y tecnológica
+- Cuerpo de texto: Roboto Regular – legible y neutra
+
+3. Tono y voz de marca:
+- Tono: Profesional, directo, inspirador
+- Voz: Cercana pero experta, como un mentor tecnológico
+
+4. Iconografía:
+- Íconos personalizados para: "Contratar", "Freelancer", "Miembros", "Mis Proyectos"
+- Estilo lineal, simple, con temática de tecnología, colaboración y tiempo
+
+5. Imaginería:
+- Ilustraciones o fotos con personas en acción trabajando de forma remota
+- Preferencia por escenas de coworking, tecnología, interacción digital
+
 ### 4.1.2. Web Style Guidelines
-## 4.2. Information Architecture
+En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de
+interacción para responsive web interfaces. 
+
+1. Diseño responsive:
+- Adaptable desde smartphones hasta pantallas grandes de escritorio
+- Botones grandes y fáciles de pulsar en pantallas táctiles (Teléfono)
+- Menús claros en versión móvil
+
+2. Componentes clave:
+- Botones: Redondeados, azul con hover verde
+- Cards de freelancers: Con foto, skills, tarifas, botón de contacto
+- Formulario de búsqueda: Filtrar por tecnología, tarifa, idioma, disponibilidad
+
+3. Interacciones:
+- Hover: Sombras suaves, colores más intensos
+- Animaciones sutiles para transiciones (ej. al abrir un perfil)
+- Click: Feedback visual (por ejemplo, cambio de color, spinner)
+
+4. Navegación:
+- Barra superior fija con secciones: Inicio, Freelancers, Proyectos, Mi cuenta
+- Menú lateral en escritorio para funciones avanzadas (dashboard, facturación)
+
+5. Accesibilidad:
+- Contrastes altos para lectura clara
+- Compatible con lectores de pantalla
+- Acceso por teclado a los principales botones
+
+### 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
