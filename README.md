@@ -724,30 +724,41 @@ básicos como Branding, Typography, Colors y Spacing, así como las dimensiones 
 adoptar para el tono de comunicación y lenguaje aplicado (Divertido/Serio,
 Formal/Casual, Respetuoso/Irreverente, Entusiasta/Sereno).
 
-1. Identidad visual:
-- Logo: Moderno, minimalista, con íconos que remiten a código o conexión
+1. Elementos visuales:
+- Nombre: BeCode
+- Logotipo: Moderno, detalles minimalistas que reflejen la idea principal del proyecto
 
-Colores: 
+Colores principales: 
 
-- Primario: Azul (#2D9CDB) – confianza y tecnología
-- Secundario: Gris oscuro (#333333) – profesionalismo
-- Complementario: Verde (#27AE60) – éxito, conexión lograda
+- Azul (#2D9CDB): Confianza, tecnología.
+- Gris oscuro (#2F2F2F): Profesionalismo.
+- Verde suave (#27AE60): Éxito, confirmación de acciones.
+
+Colores secundarios:
+
+- Blanco para mostrar fondos limpios y ordenados.
+- Tonos suaves para diferenciar secciones y que impidan distraer al usuario.
 
 2. Tipografía:
-- Titulares: Poppins Bold – moderna y tecnológica
-- Cuerpo de texto: Roboto Regular – legible y neutra
 
-3. Tono y voz de marca:
-- Tono: Profesional, directo, inspirador
-- Voz: Cercana pero experta, como un mentor tecnológico
+   Primaria: Poppins
+----
+- Títulos: Poppins Bold
+- Texto: Poppins Regular
+----
+- Alternativo: Roboto
+
+3. Tono y voz:
+- Tono: Profesional, confiable y directo.
+- Voz: Cercana, clara, sin tecnicismos innecesarios, amigable para nuevos usuarios y expertos.
 
 4. Iconografía:
-- Íconos personalizados para: "Contratar", "Freelancer", "Miembros", "Mis Proyectos"
-- Estilo lineal, simple, con temática de tecnología, colaboración y tiempo
+- Estilo lineal, delgado, con una paleta coherente (blanco, azul, gris).
+- Íconos usados: portafolio, calendario, reloj, código, pagos, usuarios.
 
-5. Imaginería:
-- Ilustraciones o fotos con personas en acción trabajando de forma remota
-- Preferencia por escenas de coworking, tecnología, interacción digital
+5. Imágenes:
+- Usar imágenes que representen colaboración remota, trabajo freelance, diversidad profesional y programación en el entorno.
+- Ilustraciones vectoriales limpias o imágenes realistas que tengan un buen contraste.
 
 ### 4.1.2. Web Style Guidelines
 En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de
