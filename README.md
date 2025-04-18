@@ -764,29 +764,34 @@ Colores secundarios:
 En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de
 interacción para responsive web interfaces. 
 
-1. Diseño responsive:
-- Adaptable desde smartphones hasta pantallas grandes de escritorio
-- Botones grandes y fáciles de pulsar en pantallas táctiles (Teléfono)
-- Menús claros en versión móvil
+1. Dispositivos compatibles:
+- Computadora de escritorio
+- Laptop personal
 
 2. Componentes clave:
-- Botones: Redondeados, azul con hover verde
-- Cards de freelancers: Con foto, skills, tarifas, botón de contacto
-- Formulario de búsqueda: Filtrar por tecnología, tarifa, idioma, disponibilidad
+- Header fijo: Logo a la izquierda, navegación centrada/derecha, botón de login destacado.
+- Dashboard: Sidebar con navegación vertical, contenido modular.
+- Cards para perfiles de freelancers: avatar, skills destacados, precio/hora, botón “contactar”.
+- Filtros de búsqueda: Por tecnologías, nivel de experiencia, tarifa, zona horaria.
 
-3. Interacciones:
-- Hover: Sombras suaves, colores más intensos
-- Animaciones sutiles para transiciones (ej. al abrir un perfil)
-- Click: Feedback visual (por ejemplo, cambio de color, spinner)
+3. Botones:
+- Estilo: Redondeados, con sombra suave, color principal azul (#2D9CDB).
+- Hover: Cambio a verde suave (#27AE60) con animación de transición (0.3s).
+- Tamaños adaptables (mínimo 44px de alto para accesibilidad).
 
-4. Navegación:
-- Barra superior fija con secciones: Inicio, Freelancers, Proyectos, Mi cuenta
-- Menú lateral en escritorio para funciones avanzadas (dashboard, facturación)
+4. Navegación e interacciones:
+- Hover: Sombras suaves, cambio de color, íconos activos.
+- Focus: Bordes resaltados para navegación con teclado.
 
 5. Accesibilidad:
-- Contrastes altos para lectura clara
-- Compatible con lectores de pantalla
-- Acceso por teclado a los principales botones
+- Contraste alto entre fondo y texto.
+- Navegación por teclado y mouse.
+- Texto alternativo para imágenes.
+- ARIA-labels en botones importantes.
+
+6. Animaciones:
+- Transiciones en cambio de página o carga de contenido.
+- Suaves, no invasivas (ejemplos: Fade-in, Slide-up).
 
 ### 4.2. Information Architecture
 ### 4.2.1. Organization Systems
