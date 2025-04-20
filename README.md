@@ -719,6 +719,25 @@ Product Backlog es una herramienta fundamental en el marco de trabajo ágil, par
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
 
+
+
+- **Tipografía:** Se utiliza la familia tipográfica Inter, con pesos 400, 600 y 800. Es moderna, legible y coherente para interfaces digitales.  
+
+- **Colores principales:**  
+- Azul claro: #5acae6 (acentos, íconos)  
+- Blanco: #ffffff (fondos)  
+- Negro/Gris oscuro: #222 a #333 (textos)  
+
+- **Estilo visual:**  
+- Minimalista, limpio y profesional.  
+- Íconos Font Awesome estilizados con color coherente.  
+- Uso consistente de espaciado, bordes redondeados, y botones de acción con fondo azul claro.  
+
+- **Interactividad:**  
+- Botones con efecto hover.  
+- Modal animado con fade-in/fade-out.  
+
+
 Aquí se explica las decisiones y referencias visuales sobre conceptos generales
 básicos como Branding, Typography, Colors y Spacing, así como las dimensiones a
 adoptar para el tono de comunicación y lenguaje aplicado (Divertido/Serio,
@@ -800,6 +819,11 @@ interacción para responsive web interfaces.
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
+
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZmw4k3kJDyNKbIpnnTk6mqjOoTdaEpl-o5BcXc-z0o_x8sWPzPDuNsmr7v8eubzjXXS73y_KfPUX0xz3aR_8X4_9m_DgolbxpOHtkZPwN-ZaGotKDtaRn4hSioMSiHidY2F3aYQ?key=prD6Au81rs5QVxbfMy7dNUmD)**
+
+
+
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
