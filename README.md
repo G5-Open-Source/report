@@ -806,8 +806,16 @@ interacción para responsive web interfaces.
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+Los wireframes de la aplicación web de BeCode representan la estructura y organización de las pantallas clave orientadas a la comunicación entre freelancers y a la organización de proyectos. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, brindando una guía clara para el diseño final. De esta manera, se asegura una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales de los usuarios ya sea Inversores o Freelancers. Los wireframes fueron desarrollados utilizando Figma. 
+
+Enlace para acceder al diseño final:
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+
+En esta sección se presentan y explican los mock-ups de la aplicación web BeCode, orientada a la mejora de la comunicación entre freelancers con los inversores y a la organización de proyectos. Se destacan los principios clave de diseño visual, accesibilidad, arquitectura de la información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la participación entre usuarios, la gestión de proyectos y la comunicación entre Freelancer con el inversor. 
+
+Enlace para acceder al Diseño:
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
