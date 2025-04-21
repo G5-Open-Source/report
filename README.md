@@ -810,7 +810,13 @@ interacción para responsive web interfaces.
 <p align="center">
   <img src="Imagenes/Mockup.png" alt="Captura_Muckup" />
 </p>
+
+
+
+
+
 ## 4.4. Web Applications UX/UI Design
+
 ### 4.4.1. Web Applications Wireframes
 
 Los wireframes de la aplicación web de BeCode representan la estructura y organización de las pantallas clave orientadas a la comunicación entre freelancers y a la organización de proyectos. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, brindando una guía clara para el diseño final. De esta manera, se asegura una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales de los usuarios ya sea Inversores o Freelancers. Los wireframes fueron desarrollados utilizando Figma. 
