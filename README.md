@@ -803,7 +803,13 @@ interacción para responsive web interfaces.
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+<p align="center">
+  <img src="Imagenes/WireframeLanding.png" alt="Captura_Wireframe1" />
+</p>
 ### 4.3.2. Landing Page Mock-up
+<p align="center">
+  <img src="Imagenes/Mockup.png" alt="Captura_Muckup" />
+</p>
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
