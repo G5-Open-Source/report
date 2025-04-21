@@ -872,6 +872,7 @@ Enlace para acceder al diseño final: https://www.figma.com/design/rVHAkjMx7e0TW
 </p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 ### 4.4.3. Web Applications Mock-ups
 
 En esta sección se presentan y explican los mock-ups de la aplicación web BeCode, orientada a la mejora de la comunicación entre freelancers con los inversores y a la organización de proyectos. Se destacan los principios clave de diseño visual, accesibilidad, arquitectura de la información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la participación entre usuarios, la gestión de proyectos y la comunicación entre Freelancer con el inversor. 
