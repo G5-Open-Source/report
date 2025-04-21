@@ -44,8 +44,8 @@ TB1:
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |              |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |                     |              |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, así como  los puntos 4.4.1, 4.4.3 .   |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|              |
 |                                                                                                      |                     |              |
 
 
@@ -895,6 +895,7 @@ interacción para responsive web interfaces.
 <p align="center">
   <img src="Imagenes/WireframeLanding.png" alt="Captura_Wireframe1" />
 </p>
+
 ### 4.3.2. Landing Page Mock-up
 <p align="center">
   <img src="Imagenes/Mockup.png" alt="Captura_Muckup" />
