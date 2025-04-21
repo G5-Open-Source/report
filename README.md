@@ -809,7 +809,7 @@ interacción para responsive web interfaces.
 
 Los wireframes de la aplicación web de BeCode representan la estructura y organización de las pantallas clave orientadas a la comunicación entre freelancers y a la organización de proyectos. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, brindando una guía clara para el diseño final. De esta manera, se asegura una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales de los usuarios ya sea Inversores o Freelancers. Los wireframes fueron desarrollados utilizando Figma. 
 
-Enlace para acceder al diseño final: https://www.figma.com/design/rVHAkjMx7e0TWYDcXmgOir/Web-Applications-Wireframes?node-id=0-1&t=SwGlgGS2bOwPyQPN-1
+Enlace para acceder al diseño final: https://www.figma.com/design/rVHAkjMx7e0TWYDcXmgOir/Web-Applications-Wireframes?node-id=0-1&t=l7Uv117HP9nJq7OA-1
 
 <p align="center">
   <img src="Imagenes/Captura_Wireframe1.png" alt="Captura_Wireframe1" />
