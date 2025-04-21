@@ -235,17 +235,106 @@ Costo para freelancers: sin comisiones por proyecto; solo pago opcional por func
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+En el ecosistema actual de servicios digitales, muchas personas y empresas requieren soluciones de programación pero no cuentan con una red confiable ni con el conocimiento necesario para encontrar programadores capacitados. Al mismo tiempo, los programadores freelancers —especialmente los que están empezando— enfrentan dificultades para posicionar sus servicios, demostrar su experiencia y conseguir oportunidades laborales estables.
 
+Hemos observado que no existe una plataforma que conecte de manera transparente, directa y confiable a programadores freelancers con personas que necesitan servicios de programación, permitiéndoles colaborar, negociar y generar confianza de forma eficaz.
+
+**¿Cómo podemos conectar a programadores freelancers con potenciales clientes de manera segura, confiable y eficiente, permitiendo que los primeros puedan demostrar su experiencia y que los segundos puedan encontrar soluciones personalizadas y calificadas según sus necesidades?**
 
 #### 1.2.2.2. Lean UX Problem Assumptions
+**¿Quién es el usuario?**
+
+1. Programadores freelancers, de nivel junior a senior, que desean ofrecer sus servicios, demostrar su experiencia y ganar visibilidad.
+
+2. Personas o empresas que necesitan soluciones tecnológicas (landing pages, sistemas, bots, APIs, etc.), pero no cuentan con programadores internos. 
+
+**¿Dónde encaja nuestro producto en su vida?**
+
+Para los programadores, la plataforma es un canal para promocionar sus habilidades, conseguir nuevos proyectos y construir su reputación profesional.
+Para los interesados, es una vía confiable para encontrar talento técnico, evaluar opciones y contratar con mayor seguridad.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
+- Desconfianza al contratar freelancers por Internet.
+
+  → Solución: sistema de calificaciones, comentarios y verificación de perfiles.
+
+- Difícil visibilidad para nuevos programadores.
+
+  → Solución: membresía premium con perfil destacado y algoritmo que considere actividad reciente, calificación y membresía.
+
+- Dificultad para encontrar al programador adecuado.
+
+  → Solución: sistema de filtros por país, habilidades, servicios ofrecidos y calificación.
+
+- Comunicación dispersa o fuera de la plataforma.
+
+  → Solución: chat interno entre interesados y programadores, con opción de iniciar conversaciones desde publicaciones o perfiles.
+
+**¿Cómo y cuándo es usado nuestro producto?**
+
+Programadores lo usan para actualizar sus perfiles, responder mensajes, revisar ofertas de servicios y recibir solicitudes.
+Interesados lo usan cuando necesitan desarrollar un sistema o resolver un problema técnico, y buscan comparar perfiles y contactar a quien mejor se ajuste.
+
+**¿Qué características son importantes?**
+
+- Perfiles detallados con experiencia, habilidades y servicios.
+
+- Publicación de necesidades por parte de los clientes.
+
+- Sistema de comentarios y calificaciones por estrellas.
+
+- Chat interno.
+
+- Filtros de búsqueda.
+
+- Sección de “perfiles favoritos”.
+
+- Membresías con beneficios como posicionamiento prioritario y mensajes ilimitados.
+
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+Diseño moderno, simple y funcional. Interfaz intuitiva, navegación rápida y adaptable a dispositivos móviles. Interacciones fluidas entre usuarios con foco en confianza y facilidad de contratación.
 
 #### 1.2.2.3. Lean UX Problem Hypothesis Statements
+- Creemos que al permitir que los programadores freelancers muestren sus habilidades y experiencia en un perfil detallado, lograremos que consigan más contratos.
+Sabremos que hemos tenido éxito cuando al menos el 60% de los programadores registrados reciban solicitudes de contacto en su primer mes.
 
+- Creemos que permitir que los interesados publiquen sus necesidades con filtros de búsqueda claros y precisos, aumentará la tasa de coincidencias exitosas.
+Sabremos que hemos tenido éxito cuando al menos el 70% de las publicaciones reciban respuesta en las primeras 72 horas.
+
+- Creemos que ofrecer membresías con beneficios como posicionamiento y mensajes ilimitados, incentivará a los usuarios más activos a suscribirse.
+Sabremos que hemos tenido éxito cuando al menos el 30% de los usuarios activos adquieran una membresía durante el primer mes.
 
 #### 1.2.2.4. Lean UX Problem Canvas
-
-
 ## 1.3. Segmentos objetivo
+**Programadores Freelancers**
+
+Personas con habilidades en programación que buscan trabajar de forma independiente ofreciendo servicios como desarrollo web, móvil, automatización, APIs, entre otros.
+
+Características:
+
+- Desde juniors hasta expertos.
+
+- Buscan visibilidad, proyectos, ingresos y reputación.
+
+- Pueden residir en cualquier parte del mundo.
+
+- Necesitan una plataforma que centralice clientes y los ayude a destacarse.
+
+**Clientes Interesados en Servicios de Programación**
+
+Personas naturales, emprendedores, empresas pequeñas o startups que necesitan soluciones digitales específicas.
+
+Características:
+
+- Requieren un programador para desarrollar o resolver tareas técnicas.
+
+- Buscan confianza, claridad de precios y calidad.
+
+- Prefieren evaluar perfiles y comunicarse directamente.
+
+- Valoran opiniones y calificaciones de otros usuarios.
 
 # Capitulo 2
 ## 2.1. Competidores
