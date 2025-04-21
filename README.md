@@ -864,7 +864,57 @@ Enlace para acceder al diseño final: https://www.figma.com/design/rVHAkjMx7e0TW
 
 En esta sección se presentan y explican los mock-ups de la aplicación web BeCode, orientada a la mejora de la comunicación entre freelancers con los inversores y a la organización de proyectos. Se destacan los principios clave de diseño visual, accesibilidad, arquitectura de la información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la participación entre usuarios, la gestión de proyectos y la comunicación entre Freelancer con el inversor. 
 
-Enlace para acceder al Diseño: 
+Enlace para acceder al Diseño: https://www.figma.com/design/jKOXocVpuGOoNev8kcutgL/Web-Applications-Wireframes--Copy-?node-id=0-1&t=rdw8lYfGlVhpv241-1
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock1.png" alt="Captura_Mock1" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock2.png" alt="Captura_Mock2" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock3.png" alt="Captura_Mock3" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock4.png" alt="Captura_Mock4" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock5.png" alt="Captura_Mock5" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock6.png" alt="Captura_Mock6" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock7.png" alt="Captura_Mock7" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock8.png" alt="Captura_Mock8" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock9.png" alt="Captura_Mock9" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock10.png" alt="Captura_Mock10" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock11.png" alt="Captura_Mock11" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Captura_Mock12.png" alt="Captura_Mock12" />
+</p>
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
