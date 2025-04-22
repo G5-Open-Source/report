@@ -33,9 +33,13 @@ Desarrollo de aplicaciones Open Source <br>
 
 # Registro de Versiones del Informe
 
+<div align="center">
+ 
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     |   |  | |                                                                                     |
+
+</div>
 
 # Project Report Collaboration Insights
 
