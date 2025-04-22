@@ -967,6 +967,38 @@ Enlace para acceder al diseño final: https://www.figma.com/design/rVHAkjMx7e0TW
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
+
+- Gestionar cuenta: Inicio de Sesión / Crear Cuenta: El usuario desea registrarse o iniciar sesión en la plataforma para acceder a sus funcionalidades. El usuario ve opciones para "Iniciar sesión" o "Crear cuenta". Si selecciona "Crear cuenta", el usuario completa un formulario con su nombre, correo electrónico, teléfono, etc. Si ya tiene una cuenta, el usuario ingresa su correo electrónico y contraseña. Finalmente, el sistema valida los datos ingresados y es redirigido al Dashboard.
+
+<p align="center">
+  <img src="Imagenes/Captura_diagram1.png" alt="Captura_diagram1" />
+</p>
+
+- Consultar Foros y chats: El usuario desea participar en el proyecto mediante foros temáticos. El usuario ve los foros disponibles (por ejemplo, "Seguridad", "Reuniones", "Propuestas"), selecciona un foro de interés y el sistema muestra los mensajes o publicaciones en ese foro. Además, podrá agregar un nuevo mensaje o comentar en un mensaje existente.
+
+<p align="center">
+  <img src="Imagenes/Captura_diagram2.png" alt="Captura_diagram2" />
+</p>
+
+- Gestionar invitaciones: El usuario (freelancer o inversor) desea gestionar sus invitaciones a proyectos. Las invitaciones cuentan con datos del destinatario.
+
+<p align="center">
+  <img src="Imagenes/Captura_diagram3.png" alt="Captura_diagram3" />
+</p>
+
+- Notificaciones: El usuario (ya sea freelancer o inversor) puede gestionar las notificaciones que le llegan en forma de avisos o alertas. El usuario hace clic en la notificación para ver más detalles sobre este. El sistema envía notificaciones en tiempo real al momento de estar disponible.
+
+<p align="center">
+  <img src="Imagenes/Captura_diagram4.png" alt="Captura_diagram4" />
+</p>
+
+- Ver proyectos actuales: El usuario (freelancer o inversor) desea consultar los proyectos en los que está participando actualmente programadas, como desarrollo de aplicaciones, supervisión de algún proyecto, desarrollo de una pagina web, entre otros. El usuario en el apartado de "Proyectos" podrá ver un resumen de los proyectos programados que tiene en esos instantes.
+
+<p align="center">
+  <img src="Imagenes/Captura_diagram5.png" alt="Captura_diagram5" />
+</p>
+
 ### 4.4.3. Web Applications Mock-ups
 
 En esta sección se presentan y explican los mock-ups de la aplicación web BeCode, orientada a la mejora de la comunicación entre freelancers con los inversores y a la organización de proyectos. Se destacan los principios clave de diseño visual, accesibilidad, arquitectura de la información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la participación entre usuarios, la gestión de proyectos y la comunicación entre Freelancer con el inversor. 
@@ -1023,6 +1055,10 @@ Enlace para acceder al Diseño: https://www.figma.com/design/jKOXocVpuGOoNev8kcu
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de VeciHub, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma.
+
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
