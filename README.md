@@ -972,7 +972,7 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario. Para
 - Gestionar cuenta: Inicio de Sesión / Crear Cuenta: El usuario desea registrarse o iniciar sesión en la plataforma para acceder a sus funcionalidades. El usuario ve opciones para "Iniciar sesión" o "Crear cuenta". Si selecciona "Crear cuenta", el usuario completa un formulario con su nombre, correo electrónico, teléfono, etc. Si ya tiene una cuenta, el usuario ingresa su correo electrónico y contraseña. Finalmente, el sistema valida los datos ingresados y es redirigido al Dashboard.
 
 <p align="center">
-  <img src="Imagenes/Captura_diagram1.png" alt="Captura_diagram1" />
+  <img src="Imagenes/Captura_Diagram1.png" alt="Captura_Diagram1" />
 </p>
 
 - Consultar Foros y chats: El usuario desea participar en el proyecto mediante foros temáticos. El usuario ve los foros disponibles (por ejemplo, "Seguridad", "Reuniones", "Propuestas"), selecciona un foro de interés y el sistema muestra los mensajes o publicaciones en ese foro. Además, podrá agregar un nuevo mensaje o comentar en un mensaje existente.
@@ -1058,6 +1058,9 @@ Enlace para acceder al Diseño: https://www.figma.com/design/jKOXocVpuGOoNev8kcu
 
 En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de VeciHub, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma BeCode.
 
+<p align="center">
+  <img src="Imagenes/Captura_diagram6.png" alt="Captura_diagram6" />
+</p>
 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
