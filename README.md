@@ -311,6 +311,8 @@ Sabremos que hemos tenido éxito cuando al menos el 70% de las publicaciones rec
 Sabremos que hemos tenido éxito cuando al menos el 30% de los usuarios activos adquieran una membresía durante el primer mes.
 
 #### 1.2.2.4. Lean UX Problem Canvas
+![Lean ux canvas](Imagenes/canvaslean.jpg)
+
 ## 1.3. Segmentos objetivo
 **Programadores Freelancers**
 
