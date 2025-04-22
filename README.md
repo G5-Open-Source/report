@@ -22,7 +22,7 @@ Desarrollo de aplicaciones Open Source <br>
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
 |   Rodrigo Liberato Saldana   |   |
-|         |   |
+|   Renato Yauri Chocce      |  U202317566 |
 |    Kael Lagos Rivera       |  U202210104 |
 |   Adriana Maria Diestra Zambrano   |  U202218110 |
 |   Diego Antonio Seijas Vasquez |  U202210167  |
