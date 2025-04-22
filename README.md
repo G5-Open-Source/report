@@ -1056,7 +1056,7 @@ Enlace para acceder al Diseño: https://www.figma.com/design/jKOXocVpuGOoNev8kcu
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de VeciHub, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma.
+En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de VeciHub, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma BeCode.
 
 
 ## 4.5. Web Applications Prototyping
