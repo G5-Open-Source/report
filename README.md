@@ -44,8 +44,8 @@ TB1:
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, así como  los puntos 4.4.1, 4.4.3 .   |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|              |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, así como  los puntos 4.4.1, 4.4.3 .   | Kael Lagos: Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|   Kael Lagos: Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.           |
 |                                                                                                      |                     |              |
 
 
