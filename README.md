@@ -428,25 +428,27 @@ Descripción: Para esta entrevista perteneciente al sector de inversores, se le 
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/ETEPgWB_PNpHnnNq7M0v1a0Bq9KLEf13R_26KDh3-W2Pxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Flnx61
 
-Entrevista 2:
-----------------------
-Nombre:
+Entrevista 4:
+---------------------
+Nombre: Arturo Salinas
 
 Capturas:
+![Arturo Salinas](Imagenes/entrevistaproyecto1.png)
 
-Descripción:
+Descripción: Se entrevisto a un gestor de proyectos que nos cuenta su experiencia trabajando con freelancers y algunas recomendaciones que aplicaciones como la nuestra deberia de poseer.
 
-Link de la entrevista:
+Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ERg2A9-SC5ZMloZJ_sp-5T8BkzQn778j_t5QtH5qM3vMxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=noMDca)
 
-Entrevista 3:
+Entrevista 5:
 ----------------------
-Nombre:
+Nombre: Santiago Mena Adriazen
 
 Capturas:
+![Santiago Mena](Imagenes/entrevistaproyecto2.png)
 
-Descripción:
+Descripción: Otro gestor de proyectos que brinda comentarios acerca de las funcionalidades que deberiamos de agregar a la aplicacion ademas de guiarnos un poco mas al rumbo que debemos enfocarnos.
 
-Link de la entrevista:
+Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVa0oKq5V4hNqMY6MpJItYgBrZWmAH2X_H5WX1CeZuBM9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pBt7h0)
 
 Entrevista 4:
 ----------------------
@@ -514,30 +516,6 @@ Capturas:
 Descripción: Se entrevistó a una diseñadora UX/UI freelance, quien compartió su experiencia trabajando desde casa y usando plataformas digitales para conseguir proyectos. Comentó sobre los desafíos actuales en su rubro, como la baja valoración del trabajo creativo y la fuerte competencia en apps globales. Además, destacó la importancia de la flexibilidad, pagos justos y la claridad en los acuerdos. Finalmente, brindó recomendaciones clave para una aplicación de este tipo, como perfiles verificados y sistema de pagos seguro.
 
 Link de la entrevista: https://goo.su/cSor
-
-### **Sector Inversor/gestor de proyectos**
-
-Entrevista 4:
----------------------
-Nombre: Arturo Salinas
-
-Capturas:
-![Arturo Salinas](Imagenes/entrevistaproyecto1.png)
-
-Descripción: Se entrevisto a un gestor de proyectos que nos cuenta su experiencia trabajando con freelancers y algunas recomendaciones que aplicaciones como la nuestra deberia de poseer.
-
-Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ERg2A9-SC5ZMloZJ_sp-5T8BkzQn778j_t5QtH5qM3vMxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=noMDca)
-
-Entrevista 5:
-----------------------
-Nombre: Santiago Mena Adriazen
-
-Capturas:
-![Santiago Mena](Imagenes/entrevistaproyecto2.png)
-
-Descripción: Otro gestor de proyectos que brinda comentarios acerca de las funcionalidades que deberiamos de agregar a la aplicacion ademas de guiarnos un poco mas al rumbo que debemos enfocarnos.
-
-Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVa0oKq5V4hNqMY6MpJItYgBrZWmAH2X_H5WX1CeZuBM9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pBt7h0)
 
 ----------------------
 ### 2.2.3. Análisis de entrevistas
