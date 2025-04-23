@@ -1044,9 +1044,26 @@ En esta sección se presentan los diagramas de flujo de usuario para las aplicac
 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+
 ### 4.6.1. Software Architecture Context Diagram
+En este sector del trabajo presentar el diagrama de contexto que muestra de una forma sencilla como estara estructurado el sistema y sus funcionalidades.
+![Context_diagram](Imagenes/DDD1.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+![Container_diagram](Imagenes/DDD2.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+Contexto de usuarios
+![User_diagram](Imagenes/DDD4_user.png)
+
+Contexto de compania
+![Company_diagram](Imagenes/DDD5_company.png)
+
+Contexto de projectos y contratacion
+![Project_hiring_diagram](Imagenes/DDD3_project_and_hiring.png)
+
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
