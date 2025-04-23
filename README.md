@@ -428,7 +428,7 @@ Descripción: Para esta entrevista perteneciente al sector de inversores, se le 
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/ETEPgWB_PNpHnnNq7M0v1a0Bq9KLEf13R_26KDh3-W2Pxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Flnx61
 
-Entrevista 4:
+Entrevista 2:
 ---------------------
 Nombre: Arturo Salinas
 
@@ -439,7 +439,7 @@ Descripción: Se entrevisto a un gestor de proyectos que nos cuenta su experienc
 
 Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ERg2A9-SC5ZMloZJ_sp-5T8BkzQn778j_t5QtH5qM3vMxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=noMDca)
 
-Entrevista 5:
+Entrevista 3:
 ----------------------
 Nombre: Santiago Mena Adriazen
 
@@ -450,25 +450,6 @@ Descripción: Otro gestor de proyectos que brinda comentarios acerca de las func
 
 Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVa0oKq5V4hNqMY6MpJItYgBrZWmAH2X_H5WX1CeZuBM9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pBt7h0)
 
-Entrevista 4:
-----------------------
-Nombre:
-
-Capturas:
-
-Descripción:
-
-Link de la entrevista:
-
-Entrevista 5:
-----------------------
-Nombre:
-
-Capturas:
-
-Descripción:
-
-Link de la entrevista:
 
 ----------------------
 ### **Sector Freelancer**
