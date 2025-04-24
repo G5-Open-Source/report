@@ -850,10 +850,55 @@ interacción para responsive web interfaces.
 
 ### 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+En la plataforma BeCode, se han implementado sistemas de organización que optimizan la interacción entre freelancers e inversores, facilitando tanto la búsqueda de talento como la publicación de ideas innovadoras. La estructura visual del contenido ha sido organizada bajo los siguientes principios:
+
+**1- Jerarquía visual:**
+Se ha utilizado una jerarquía visual clara para destacar los elementos más importantes de la plataforma. Por ejemplo, el título principal “Conecta talento con ideas” ocupa una posición central con tipografía destacada, seguido por botones como “Explora Freelancers” y “Publica una Idea”. Esta estructura permite a los usuarios identificar de inmediato las funcionalidades principales del sitio.
+
+**2-Jerarquía de Tipografía:**
+En nuestra plataforma, la información se presenta siguiendo un orden visual que responde a las necesidades y comportamientos de nuestros usuarios. Por ello, se ha definido una jerarquía tipográfica clara que distingue títulos, subtítulos, párrafos y otros elementos textuales, asegurando una lectura fluida y facilitando la identificación rápida del contenido más relevante.
+
+**3- Organización secuencial:**
+Se ha implementado una estructura de almacenamiento basada en una organización secuencial, permitiendo que los registros utilizados por el usuario final se gestionen de forma ordenada y eficiente. Este enfoque mejora tanto la simplicidad como la velocidad de acceso a la información. En el contexto de nuestro proyecto, esta organización se aplica en la visualización estructurada de listas de freelancers e inversores, guiando al usuario paso a paso a través del contenido.
+
+**4- Alineación:**
+En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
+
+**5-Color:**
+A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve las correctas composiciones del color, para dirigir diversas emociones.
+
 ### 4.2.2. Labeling Systems
+Para el uso de etiquetas de nuestro Landing Page, se ha elegido un lenguaje sencillo que permite a los usuarios familiarizarse con facilidad con las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera intuitiva.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Se utilizaron los siguientes tags en el desarrollo:
+
+1. **SEO tag Header**: Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web
+
+2. **SEO tah Url**: Emplearemos una Url amigable, sin caracteres extraños para su fácil búsqueda.
+
+3. **Meta title**: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
+
+4. **Meta tag Author**: Es el autor de la página, en este caso utilizamos el nombre del startup BeCode.
+
+5. **Meta tag Description**: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
+
+6. **Meta tag Keywords**: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
+
 ### 4.2.4. Searching Systems
+Para optimizar la experiencia de los usuarios en la plataforma, se han implementado distintos sistemas de búsqueda que permiten localizar información de manera rápida, precisa y personalizada. Estos métodos no solo agilizan la interacción con la aplicación, sino que también mejoran la usabilidad general del sistema.
+
+1. **Barra de búsqueda**: Permite ingresar palabras clave para ubicar perfiles, ideas o categorías específicas dentro del marketplace.
+2. **Filtros de búsqueda**: Ayudan a refinar los resultados según habilidades, presupuesto, tipo de proyecto u otros criterios relevantes.
+3. **Inicio**: Ofrece un punto de regreso rápido a la página principal, facilitando la navegación cuando el usuario se siente desorientado.
+
 ### 4.2.5. Navigation Systems
+Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan las funcionalidades. Como sistema de navegación, para el landing page, nos encargamos de realizar una página vertical con poco texto donde el usuario pueda navegar sin saltarse a otra página y confundirse por la inmensidad de información. Nuestro landing page cuenta con secciones como:
+
+- Freelancers: El usuario podrá explorar la sección de freelancers, donde tendrá acceso a los perfiles disponibles, visualizando sus habilidades, experiencias y proyectos previos.
+- Inversores: El usuario podrá publicar una propuesta y conectar con el equipo ideal para desarrollarla, encontrando profesionales que se alineen con su visión.
+  
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
