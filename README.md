@@ -1069,6 +1069,9 @@ En esta sección se presentan los diagramas de flujo de usuario para las aplicac
 </p>
 
 ## 4.5. Web Applications Prototyping
+
+Link del video:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210167_upc_edu_pe/EZTyTPh10vFNj4y4BPpO2vIBcDP0GTnQ2zWZIoT_R7N_Vg?e=OLan1g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
