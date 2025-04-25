@@ -48,7 +48,7 @@ TB1:
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, así como  los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4 .   | Kael Lagos: Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, incluyó el apartado de bibliografia, incluyó 6 anexos y desarrollo los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4 .   | Kael Lagos: Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|   Kael Lagos: Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.           |
 |                                                                                                      |                     |              |
 
@@ -138,6 +138,13 @@ TB1:
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  
+- [Conclusiones](#conclusiones)
+- [Bibliografia](#bibliografía)
+- [Anexos](#anexos)
+
+
+
 
 # Introduccion
 
@@ -1115,3 +1122,50 @@ Contexto de projectos y contratacion
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+## Conclusiones
+
+## Bibliografía
+
+Onesafe. (2025, 3 marzo). Ventajas y desventajas de contratar desarrolladores freelance de MetaMask. OneSafe Blog. https://www.onesafe.io/es/blog/contratacion-guia-desarrolladores-freelance-metamask
+
+Campana, N. (2025, 17 abril). Freelance challenges: Major problems & How to deal with them. Freelancer Blog. https://www.freelancermap.com/blog/major-challenges-survey/
+
+What are the issues of freelancing platforms? (s. f.). Quora. https://www.quora.com/What-are-the-issues-of-freelancing-platforms
+
+Carbajal, J. A. (2017, 18 abril). Las 3 amenazas más peligrosas para un desarrollador freelance y cómo evitarlas - EmpiriaLab. EmpiriaLab. http://www.empirialab.com/las-3-amenazas-mas-peligrosas-desarrollador-freelance-evitarlas/
+
+Serrador, Á. M. (2024, 7 mayo). Los riesgos de ser programador freelance y cómo evitarlos. Yeeply. https://yeeply.com/blog/tendencias-habilidades/riesgos-freelance-como-evitarlos/
+
+## Anexos
+
+<h4> Anexo A </h4>
+
+- Video (Lo bueno y lo malo de ser desarrollador Freelancer): 
+https://youtu.be/Qy5oOwisqWY?si=6AbmuS_9YW9kcBxg
+
+<h4> Anexo B </h4>
+
+- Video (LO PEOR de trabajar en DESARROLLO WEB FREELANCE desde casa): 
+https://youtu.be/eKEdlg1ePxg?si=AtNxlud0hrt1kUh8
+<h4> Anexo C </h4>
+
+- Gráfico (Número de usuarios registrados en Workana):
+
+![Referencia1](Imagenes/Referencia1.webp)
+
+<h4> Anexo D </h4>
+
+- Gráfico (Fuerza laboral latinoamericana por profesión):
+
+![Referencia2](Imagenes/Referencia2.png)
+<h4> Anexo E </h4>
+
+- Video (Por esto no consigues trabajo freelance): 
+https://youtu.be/UohCB6axszo?si=MRKiNR4Iik3bUE5W
+<h4> Anexo F </h4>
+
+- Video (Si eres freelancer, NUNCA cometas estos 10 errores): 
+https://youtu.be/XN-q9McsiVc?si=zonNuw2RqNnHh2Qz
+
+
