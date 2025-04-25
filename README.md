@@ -48,7 +48,7 @@ TB1:
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, incluyó el apartado de bibliografia, incluyó 6 anexos y desarrollo los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4 .   | Kael Lagos: Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, desarrollo las conclusiones, incluyó el apartado de bibliografia, incluyó 6 anexos y desarrollo los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4 .   | Kael Lagos: Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|   Kael Lagos: Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.           |
 |                                                                                                      |                     |              |
 
@@ -1124,6 +1124,40 @@ Contexto de projectos y contratacion
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ## Conclusiones
+
+A partir de la información obtenida en distintas páginas web y analizar las entrevistas realizadas hemos llegado a la conclusión de que hoy en día es dificil tener la suficiente confienza en desarrolladores Freelance para el desarrollo de proyectos, esto debido a la falta de profesionalismo de algunos o la poca confianza que llegan a transmitir a los inversionistas que son los que suelen solicitar sus servicios. Es algo que con el pasar de los años llegó a empeorar debido a la nula intención de las compañias con respecto a encontrar una solución para este tipo de problemas, además que en muchos casos llegan a haber pleitos entre ambas partes sin la posibilidad de encontrar una solución que llegué a resolver el conflicto en cuestión. 
+
+Para estas problematicas surge la propuesta de BeCode que se presenta como una plataforma web diseñada para transformar la forma en que los programadores freelance y los contratantes interactúan en el entorno digital. A través de un modelo basado en membresías y perfiles verificados, el proyecto busca crear un espacio justo, seguro y eficiente para el desarrollo de proyectos tecnológicos que responda a las demandas actuales.
+
+Este enfoque no solo responde a las deficiencias actuales de otras plataformas —como la falta de transparencia, las comisiones excesivas y la dificultad para encontrar talento confiable—, sino que también aporta valor al ofrecer una experiencia centrada en la usabilidad, la confianza y la equidad entre los usuarios y los contratantes.
+
+Gracias a su diseño enfocado en la experiencia de usuario (UX), las guías de estilo claras y una estructura flexible, BeCode está preparado para posicionarse como una solución innovadora y viable en el mercado freelance tecnológico, particularmente en el contexto latinoamericano.
+
+Algunas recomendaciones a tomar en cuenta serían:
+
+- Validar constantemente con usuarios reales
+  
+Realizar pruebas de usabilidad y encuestas con freelancers e inversores ayudará a mejorar la plataforma en base a necesidades reales, no solo suposiciones.
+
+- Optimizar la seguridad y verificación de perfiles
+  
+Invertir en mecanismos de autenticación, validación de habilidades y contratos inteligentes será esencial para construir confianza dentro de la comunidad.
+
+- Diseñar un sistema escalable y modular
+  
+Asegurarse de que el backend y frontend estén pensados para crecer conforme aumente la base de usuarios y se incorporen nuevas funciones o mercados.
+
+- Incluir herramientas de seguimiento y evaluación de desempeño
+  
+Implementar funciones como reportes automáticos, métricas de productividad y reputación puede mejorar la transparencia entre contratistas y freelancers.
+
+- Crear alianzas estratégicas
+  
+Colaborar con comunidades de desarrolladores, hubs tecnológicos y empresas de outsourcing puede acelerar la adopción y visibilidad de la plataforma.
+
+- Monitorear y mejorar el SEO y posicionamiento web
+  
+Ya que BeCode es una aplicación 100% web, es crucial trabajar en estrategias de SEO, keywords, y contenido útil para atraer tráfico orgánico de calidad.
 
 ## Bibliografía
 
