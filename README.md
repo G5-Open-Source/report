@@ -1133,7 +1133,7 @@ Este enfoque no solo responde a las deficiencias actuales de otras plataformas �
 
 Gracias a su diseño enfocado en la experiencia de usuario (UX), las guías de estilo claras y una estructura flexible, BeCode está preparado para posicionarse como una solución innovadora y viable en el mercado freelance tecnológico, particularmente en el contexto latinoamericano.
 
-Algunas recomendaciones a tomar en consideración serían:
+Algunas recomendaciones a tomar en consideración serian:
 
 - Validar constantemente con usuarios reales
   
