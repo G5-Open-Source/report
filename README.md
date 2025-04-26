@@ -1266,7 +1266,7 @@ En este sector del trabajo presentar el diagrama de contexto que muestra de una 
 Contexto de usuarios
 ![User_diagram](Imagenes/DDD4_user.png)
 
-Contexto de compania
+Contexto de compañia
 ![Company_diagram](Imagenes/DDD5_company.png)
 
 Contexto de projectos y contratacion
