@@ -1450,6 +1450,21 @@ Y por ultimo se guardo la configuracion, esto permitira a GitHub leer las actual
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+
+
+| Sprint #                             | Sprint 1                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-04-26        |
+| Time           | 1:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Rodrigo Liberato               |
+| Attendees (to planning meeting)| Adriana Maria Diestra Zambrano, Rodrigo Liberato, Renato Yauri Chocce, Kael Lagos Rivera, Diego Antonio Seijas Vasquez Gutarra                   |
+| Sprint n - 1 Review Summary    | Este es el primer Sprint, por lo que este campo no aplica.                                            |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                       |
+| Sprint 1 Goal                  | La principal prioridad para este sprint fue la creacion de la landing page de una forma exitosa y desplegarla. Esto se logro gracias al trabajo conjunto de todos los integrantes del equipo. |
+| Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta 5 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  3.                                            |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 En esta seccion especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
 
@@ -1464,6 +1479,17 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 
 
 #### 5.2.1.3. Sprint Backlog 1.
+| **Sprint #**   |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** | **Work-Item/task** |             |             |             |             |
+| **ID**         | **Título**  | **Descripción** | **Estimación (hrs)** | **Assigned to** | **Status** |
+| US-02          | Sección Beneficios         | Como visitante, quiero ver los beneficios de usar BeCode para evaluar si es conveniente para mí. |       1            |      Rodrigo Liberato           |          Done   |
+| US-03          | Comparación de Membresías   | Como visitante, quiero comparar membresías para elegir la más adecuada.                         |        1.5          |          Diego Sejias       |        Done     |
+| US-04          | Sección de Contacto         | Como visitante, quiero poder contactar a BeCode desde la landing page para resolver dudas.       |        2           |         Diego Sejias        |       Done      |
+
+
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 En esta sección se presentan las evidencias del desarrollo de la Landing Page de BeCode durante el primer sprint de desarrollo.
