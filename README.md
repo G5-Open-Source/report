@@ -1477,9 +1477,14 @@ En este punto se presenta la ejecucion de la landing page para esta entrega.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-
+En este sprint se realizo el despliege de la landing page del project BeCode, marcando el primer paso de la publicacion progresiva en los siguientes sprints se realizara el resto de la landing page y la aplicacion web del proyecto.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el implemento de nuestra pagina pues se opto por el uso de GitHub Pages para el despliegue de la landing page. Esta parte incluye las diferentes secciones de nuestras historias de usuario, el registro y una breve explicacion de lo que queremos lograr con el proyecto.
+
+Link de la landing page: [https://g5-open-source.github.io/landing-page-becode/](https://g5-open-source.github.io/landing-page-becode/)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para el desarrollo de este primer avance se dividieron las tareas entre los integrantes, se cumplieron con las tareas asignadas y se subia el trabajo en el repositorio ni bien está terminada el punto. A continuación se presentan capturas de toda la actividad registrada.
