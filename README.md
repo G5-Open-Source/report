@@ -21,7 +21,7 @@ Desarrollo de aplicaciones Open Source <br>
 
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
-|   Rodrigo Liberato Saldana   |   |
+|   Rodrigo Liberato Saldana   | U202215623  |
 |   Renato Yauri Chocce      |  U202317566 |
 |    Kael Lagos Rivera       |  U202210104 |
 |   Adriana Maria Diestra Zambrano   |  U202218110 |
@@ -1451,7 +1451,15 @@ Y por ultimo se guardo la configuracion, esto permitira a GitHub leer las actual
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta seccion especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
 
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Liberato Saldaña Rodrigo          | Libeman10     | L                   | 
+| Adriana Maria Diestra Zambrano          | adriiiiii123     | C                   | 
+| Renato Yauri Chocce          | JavierRog            | C                   |  
+| Kael Lagos Rivera        | Kaellagos     | C                   | 
+| Diego Antonio Seijas Vasquez           | NotSeijas| C                   |  
 
 
 
