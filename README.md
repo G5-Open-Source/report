@@ -1309,6 +1309,35 @@ Aplicación de mensajería instantánea para la comunicación ágil del equipo. 
 Lenguaje de marcado ligero utilizado en toda la documentación técnica. Creamos el README.md y otros documentos de proyecto en Markdown para garantizar legibilidad y portabilidad en GitHub.
 
 ### 5.1.2. Source Code Management.
+Para la gestion del codigo fuente se realizo nuestros avances en una plataforma que ayude a mantener un avance constante de nuestro producto, **GitHub**. Asimismo, se uso **Git** para tener facilidad editar nuestros documentos. A continuacion los repositorios utilizados para este sprint:
+
+- Organizacion: [https://github.com/G5-Open-Source](https://github.com/G5-Open-Source)
+- Reporte: [https://github.com/G5-Open-Source/report.git](https://github.com/G5-Open-Source/report.git)
+- Landing page: [https://github.com/G5-Open-Source/landing-page-becode.git](https://github.com/G5-Open-Source/landing-page-becode.git)
+
+#### Gitflow
+Gitflow es una estrategia de ramificación (branching) en Git que define un separa el flujo de trabajo para una mejor organizacion, esto para que los trabajos colaborativos se puedan desarrollar de la mejor manera. Separa las diferentes fases del desarrollo (nuevas funcionalidades, pruebas, correcciones) en distintas branches. Las branches permiten trabajar en paralelo en diferentes aspectos del proyecto sin afectar el código principal. En Gitflow, cada tipo de rama tiene una función específica. 
+
+| Rama     | Función                                                                                                                                       |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| master   | Contiene el código en producción. Cada versión estable y lista para liberar se guarda aquí.                                                  |
+| develop  | Rama principal de desarrollo. Aquí se integran nuevas funcionalidades antes de liberar.                                                      |
+| feature  | Se usa para desarrollar nuevas funcionalidades. Se crea a partir de develop y al terminar se fusiona de nuevo allí.                          |
+| release  | Rama de preparación para lanzar una versión. Se crea desde develop y permite hacer pruebas, ajustes y documentación antes de pasar a master. |
+| hotfix   | Se usa para corregir errores críticos en producción. Se crea desde master y luego se fusiona en master y develop.                            |
+
+#### Conventional commits
+Los commits convencionales son una forma de realizar mensajes en formato estandarizado en trabajo colaborativos como GitHub .Facilita la lectura del historial y la generación automática de versiones (releases). Para este projecto, se realizaron multiples commits siguiendo los tipos a continuacion para que el historial sea el mas adecuado acerca de nuestros avances durante las primeras 4 semanas.
+
+| Tipo     | Descripción                                                                                   | Ejemplo                                             |
+|----------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| feat     | Añade una nueva funcionalidad al sistema.                                                     | feat(auth): añadir login con Google                 |
+| fix      | Corrige un error.                                                                             | fix(api): corregir error al obtener usuarios        |
+| docs     | Cambios en la documentación (README, comentarios, etc.).                                      | docs(readme): actualizar sección de instalación     |
+| style    | Cambios que no afectan la lógica del código (espacios, formato, comas).                       | style(ui): reordenar imports y quitar espacios      |
+| refactor | Cambios en el código que no corrigen bugs ni agregan funciones.                               | refactor(utils): simplificar función de validación  |
+| test     | Añade o modifica pruebas.                                                                     | test(routes): agregar pruebas para rutas protegidas |
+| chore    | Tareas del mantenimiento del proyecto (build, dependencias, configs, etc.)                    | chore: actualizar dependencias con npm              |
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
