@@ -1456,8 +1456,10 @@ Y por ultimo se guardo la configuracion, esto permitira a GitHub leer las actual
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 Aqui se presenta el avance que hubo en la landing page para esta entrega, si bien se ve solo a una persona, hubo apoyo de los demas para la esta entrega.
+| Repository            | Branch               | Commit Id | Commit Message                     | Commit Message Body                                   | Committed on (Date) |
+|------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
+| G5-Open-Source/landing-page-becode    | feature/main   | 695a22c8be89b75f1d2303cde95834f45604ee43   | feat:added index. | 25/04/2025          |
 
-![deployment3](Imagenes/development.png)
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
