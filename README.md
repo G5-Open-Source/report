@@ -1439,10 +1439,30 @@ Y por ultimo se guardo la configuracion, esto permitira a GitHub leer las actual
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+
+
+
+
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
+
+Aqui se presenta el avance que hubo en la landing page para esta entrega, si bien se ve solo a una persona, hubo apoyo de los demas para la esta entrega.
+
+![deployment3](Imagenes/development.png)
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En este punto se presenta la ejecucion de la landing page para esta entrega.
+
+![execution](Imagenes/execution-evidence.png)
+
+
+![execution](Imagenes/execution-evidence2.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
