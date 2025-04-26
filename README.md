@@ -1466,6 +1466,31 @@ En este punto se presenta la ejecucion de la landing page para esta entrega.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+Para el desarrollo de este primer avance se dividieron las tareas entre los integrantes, se cumplieron con las tareas asignadas y se subia el trabajo en el repositorio ni bien está terminada el punto. A continuación se presentan capturas de toda la actividad registrada.
+### Contributors:
+
+<p align="center">
+  <img src="Imagenes/ParticipaciónGrupal1.png" alt="Contributors" />
+</p>
+
+### Traffic:
+
+<p align="center">
+  <img src="Imagenes/ParticipaciónGrupal2.png" alt="Traffic" />
+</p>
+
+### Commits:
+
+<p align="center">
+  <img src="Imagenes/ParticipaciónGrupal3.png" alt="Commits" />
+</p>
+
+### Code frequency:
+
+<p align="center">
+  <img src="Imagenes/ParticipaciónGrupal4.png" alt="Code frequency" />
+</p>
+
 ## Conclusiones
 
 A partir de la información obtenida en distintas páginas web y analizar las entrevistas realizadas hemos llegado a la conclusión de que hoy en día es dificil tener la suficiente confienza en desarrolladores Freelance para el desarrollo de proyectos, esto debido a la falta de profesionalismo de algunos o la poca confianza que llegan a transmitir a los inversionistas que son los que suelen solicitar sus servicios. Es algo que con el pasar de los años llegó a empeorar debido a la nula intención de las compañias con respecto a encontrar una solución para este tipo de problemas, además que en muchos casos llegan a haber pleitos entre ambas partes sin la posibilidad de encontrar una solución que llegué a resolver el conflicto en cuestión. 
