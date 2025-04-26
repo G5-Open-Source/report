@@ -1272,7 +1272,42 @@ Contexto de projectos y contratacion
 
 # Capítulo 5
 ## 5.1 Software Configuration Management
+
+En la sigueiente seccion se presenta la configuracion de nuestro software, que se dividira en las 4 secciones, el desarrollo de ambiente, las pautas que se tomaron para el codigo, estilos y la configuracion que se llevo a cabo en el GitHub.
 ### 5.1.1 Software Development Environment Configuration
+
+En esta seccion hablaremos sobre las herramientas utilizadas en el desarrollo de nuestro software, las cuales son:
+
+**Figma**
+Plataforma de diseño colaborativo en la nube, perfecta para idear y pulir la interfaz de usuario (UI). Con Figma creamos los mock-ups, wireframes y el prototipo final, permitiendo que todo el equipo comentara y sugiriera ajustes en tiempo real.
+
+**UXPressia**
+Herramienta especializada en mapas de experiencia: definimos user personas, trazamos customer journey maps y diseñamos impact maps. Gracias a UXPressia entendimos mejor las motivaciones y puntos de dolor de nuestros usuarios.
+
+**Visual Studio Code**
+Editor de código ligero, extensible y multiplataforma. Lo usamos para editar el fichero README.md y para cualquier ajuste rápido de texto o fragmentos de código, aprovechando su integración con Git y sus extensiones de Markdown.
+
+**Git**
+Sistema de control de versiones distribuido que registra cada cambio en el código. Con Git llevamos un histórico preciso de nuestro README.md y de todas las iteraciones del proyecto, facilitando la colaboración entre desarrolladores.
+
+**GitHub**
+Plataforma online construida sobre Git, que alojó nuestro repositorio central. En GitHub organizamos issues, revisiones de código (pull requests) y la propia documentación en Markdown, lo que agilizó la coordinación del equipo.
+
+**Visual Paradigm Online**
+Herramienta de modelado visual en la web. Con ella dibujamos diagramas de contexto, contenedores y componentes para entender la arquitectura de la aplicación antes de empezar a programar.
+
+**MySQL**
+Sistema de gestión de bases de datos relacional. Diseñamos y creamos la base de datos del proyecto—junto con su diagrama entidad-relación—para estructurar y garantizar la integridad de los datos.
+
+**StarUML**
+Software de modelado UML de escritorio. Lo empleamos para generar el diagrama de clases y los casos de uso, estableciendo con claridad las entidades, atributos y relaciones de nuestro dominio.
+
+**WhatsApp**
+Aplicación de mensajería instantánea para la comunicación ágil del equipo. Sirvió para resolver dudas al vuelo, compartir enlaces y coordinar reuniones express.
+
+**Markdown**
+Lenguaje de marcado ligero utilizado en toda la documentación técnica. Creamos el README.md y otros documentos de proyecto en Markdown para garantizar legibilidad y portabilidad en GitHub.
+
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
