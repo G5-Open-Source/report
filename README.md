@@ -1339,7 +1339,91 @@ Los commits convencionales son una forma de realizar mensajes en formato estanda
 | test     | Añade o modifica pruebas.                                                                     | test(routes): agregar pruebas para rutas protegidas |
 | chore    | Tareas del mantenimiento del proyecto (build, dependencias, configs, etc.)                    | chore: actualizar dependencias con npm              |
 ### 5.1.3. Source Code Style Guide & Conventions.
+Para este punto explicaremos las pautas y convenciones que se tomaron en cuenta para la creacion del codigo.
+#### Kebab-case
+ El kebab-case es un estilo de escritura donde las palabras se separan con guiones (-) y todas las letras están en minúsculas. Este estilo se usa comúnmente en nombres de archivos, rutas web y clases CSS. Se decidio por el uso en este proyecto debido a la legibilidad y facilidad para entender, favorece la consistencia en proyectos colaborativos y es una convencion muy popular.
+
+``
+Nombre normal: UserProfileComponent 
+En kebab-case: user-profile-component
+``
+
+Se usa de la siguiente manera
+
+| Uso común                                                   | Ejemplo                          |
+|-------------------------------------------------------------|----------------------------------|
+| Nombres de archivos                                          | login-page.component.html        |
+| Clases CSS                                                  | .nav-bar, .error-message         |
+| URLs                                                        | /user-profile/settings           |
+| Nombres de componentes (en frameworks como Vue o Angular)   | `<user-profile-card>`              |
+
+#### HMTL, CSS y JS
+
+Para el uso de los siguientes lenguajes primarios para desarrollar nuestra solucion, se utilizaron las siguientes uenas practicas
+
+##### HTML
+Uso de etiquetas semánticas (`<header>, <section>, <article>, <footer>`, etc.), todos los atributos en minúscula, nombres de clase en kebab-case e indentación consistente (2 o 4 espacios, sin tabs). A continuacon un ejemplo
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mi página</title>
+  </head>
+  <body>
+    <header class="main-header">
+      <h1>Bienvenido</h1>
+    </header>
+    <section class="user-profile">
+      <p>Hola, usuario</p>
+    </section>
+  </body>
+</html>
+```
+##### CSS
+El uso de kebab-case para clases, uso de selectores específicos pero no demasiados largos, uso de variables CSS con el siguiente termino (--main-color). A continuacion un ejemplo
+
+```css
+:root {
+  --primary-color: #3498db;
+}
+
+.main-header {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  text-align: center;
+}
+
+.user-profile {
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+
+```
+
+##### JS
+Uso de camelCase para variables y funciones, asimismo el uso PascalCase para clases y componentes y constantes en UPPER_SNAKE_CASE. Las variables siempre deben ser declaradas con let o const, evitando el var. Por ultimo usar las funciones flecha cuando sea posible. A continuacion un ejemplo:
+
+```js
+const API_URL = "https://api.example.com/users";
+
+function fetchUserData(userId) {
+  return fetch(`${API_URL}/${userId}`)
+    .then(response => response.json())
+    .then(data => {
+      console.log("Datos del usuario:", data);
+    })
+    .catch(error => console.error("Error:", error));
+}
+
+
+```
+
 ### 5.1.4. Software Deployment Configuration.
+
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
