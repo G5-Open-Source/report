@@ -1357,7 +1357,7 @@ Nombre normal: UserProfileComponent
 En kebab-case: user-profile-component
 ``
 
-Se usa de la siguiente manera
+Se usa de la siguiente manera:
 
 | Uso común                                                   | Ejemplo                          |
 |-------------------------------------------------------------|----------------------------------|
