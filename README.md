@@ -1421,7 +1421,18 @@ function fetchUserData(userId) {
 ```
 
 ### 5.1.4. Software Deployment Configuration.
+ En esta seccion se explicara la configuracion utilizada para el despliegue de nuestro proyecto. Para este proyecto se utilizo GitHub pages para el despliegue de nuestra landing page.
 
+
+Primero, nuestro repositorio de GitHub con el codigo de la landing page esta configurado de la siguiente manera:
+ ![deployment1](Imagenes/configuration1.png)
+
+ Se cambio la branch de "None" a "main" para que GitHub Pages pueda desplegar el contenido de la rama principal.
+ ![deployment2](Imagenes/configuration2.png)
+
+Y por ultimo se guardo la configuracion, esto permitira a GitHub leer las actualizaciones en la rama principal y desplegar el contenido en GitHub Pages de Index.html
+ 
+ ![deployment3](Imagenes/configuration3.png)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
