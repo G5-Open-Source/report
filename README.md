@@ -507,10 +507,174 @@ Link de la entrevista: https://goo.su/cSor
 
 ----------------------
 ### 2.2.3. Análisis de entrevistas
-#### Freelancers
-
 #### Gestor de proyectos
-En el lado de los gestores de proyectos identificamos que ellos realmente quieren una verificacion por parte de los freelancers, que sus conocimientos de los que contratan para los proyectos que necesitan sean los verdaderos para que su eficacia al momento de trabajar sea real y que obviamente puedan trabajar de forma colaborativa con una funcionalidad de seguimiento en proyectos. Por el lado economico, prefieren que los contratos con los freelancers sean flexibles en caso de haber algun conflicto entre su empresa y los freelancers. Asimismo, prefieren un sistema de ratings para sus empresas para un mejor reconocimiento y filtrado para encontrar lo que necesitan facilmente.
+
+<h5>Análisis de la Entrevista - Roberto Carlos Figueroa</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>WhatsApp ; ocasionalmente Facebook.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>Usa principalmente WhatsApp para comunicarse directamente con el freelancer vía contacto.</td></tr>
+    <tr><td><strong>Participación</strong></td><td>Organiza reuniones con algunos de los freelancer a los que contrata.</td></tr>
+    <tr><td><strong>Problemas</strong></td><td>Falta de información, poca confianza con los freelancer.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta disposición a usar una app como BeCode.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, notificaciones, foros o subforos para varios proyectos.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales y bancarios al momento de pagar.</td></tr>
+  </table>
+<br>
+    <h5>Análisis de la Entrevista - Arturo Salinas</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Fuentes de Información</strong></td>
+    <td>Usa WhatsApp y Facebook.</td>
+  </tr>
+  <tr>
+    <td><strong>Canales de Comunicación</strong></td>
+    <td>Usa WhatsApp para comunicación directa</td>
+  </tr>
+  <tr>
+    <td><strong>Participación</strong></td>
+    <td>Organiza reuniones con algunos de los freelancer a los que contrata.</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas</strong></td>
+    <td>Falta de comunicación clara y oportuna.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en Plataforma Digital</strong></td>
+    <td>Muy interesada en contar con una plataforma como BeCode para buscar freelancers comprometidos.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Relevantes</strong></td>
+    <td>Alertas, notificaciones, foros o subforos para varios proyectos y perfiles completos.</td>
+  </tr>
+  <tr>
+    <td><strong>Privacidad y Seguridad</strong></td>
+    <td>Preocupación por protección de datos personales y bancarios al momento de pagar.</td>
+  </tr>
+</table>
+<br>
+
+  <h5>Análisis de la Entrevista - Santiago Mena Adriazen</h5>
+  <table border="1" cellpadding="6" cellspacing="0">
+    <tr><td><strong>Fuentes de Información</strong></td><td>WhatsApp o Facebook.</td></tr>
+    <tr><td><strong>Canales de Comunicación</strong></td><td>WhatsApp y en ocaciones Messenger.</td></tr>
+    <tr><td><strong>Participación</strong></td><td>Organiza reuniones o llamadas con algunos de los freelancer a los que contrata.</td></tr>
+    <tr><td><strong>Problemas</strong></td><td>Desorganización, falta de comunicación clara y oportuna.</td></tr>
+    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta. Considera urgente una solución como VeciHub.</td></tr>
+    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, notificaciones, foros o subforos para varios proyectos y perfiles completos de desarrolladores.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>No desea que su dirección o datos personales sean públicos.</td></tr>
+  </table>
+<br>
+
+### Freelancer
+
+<h5>Análisis de la Entrevista - Rodrigo Espezua</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Medios de Comunicación</strong></td>
+    <td>Via WhatsApp o Facebook.</td>
+  </tr>
+  <tr>
+    <td><strong>Herramientas Actuales</strong></td>
+    <td>Utilizan WhatsApp y llamadas telefónicas para coordinar decisiones o contactar con sus compañeros del mismo proyecto.</td>
+  </tr>
+  <tr>
+    <td><strong>Dificultades para la Participación</strong></td>
+    <td>En ocasiones las respuestas no son inmediatas y falta de comunicación.</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas con los Canales de pago</strong></td>
+    <td>No son seguras y no brindan un comprobante </td>
+  </tr>
+  <tr>
+    <td><strong>Información a Comunicar</strong></td>
+    <td>Avances en el desarrollo del proyecto o pagos pendientes.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en una Plataforma Digital</strong></td>
+    <td>Alta disposición. Considera útil contar con una plataforma que permita una correcta organización con los participantes.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Deseadas</strong></td>
+    <td>Notificaciones, alertas, foros o subforos.</td>
+  </tr>
+  <tr>
+    <td><strong>Disposición a usar la App</strong></td>
+    <td>Estarían dispuestos si reciben capacitación y soporte. Resalta que debe ser fácil de usar para todos.</td>
+  </tr>
+</table>
+<br>
+<h5>Análisis de la Entrevista - Zuriel Andrea Rivera</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Medios de Comunicación</strong></td>
+    <td>Usa principalmente WhatsApp. También emplea Zoom para reuniones virtuales.</td>
+  </tr>
+  <tr>
+    <td><strong>Herramientas Actuales</strong></td>
+    <td>Coordina actividades y comunicaciones mediante WhatsApp o Workana.</td>
+  </tr>
+  <tr>
+    <td><strong>Dificultades para la Participación</strong></td>
+    <td>En ocasiones las respuestas no son inmediatas y falta de una organización en los mensajes del inversor.</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas con los Canales Actuales</strong></td>
+    <td>Existe desorganización al manejar múltiples canales. Se pierde información importante y los canales de pago no son fiables.</td>
+  </tr>
+  <tr>
+    <td><strong>Información a Comunicar</strong></td>
+    <td>Pagos, mantenimientos, fechas de reuniones, temas de seguridad.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en Plataforma Digital</strong></td>
+    <td>Muy interesado sobre la propuesta. Busca centralizar avisos, comentarios, notificaciones y actividades en una sola herramienta digital.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Deseadas</strong></td>
+    <td>Confirmación de lectura de anuncios, calendario integrado, filtro para mensajes importantes y reporte de errores con la aplicación.</td>
+  </tr>
+  <tr>
+    <td><strong>Disposición a usar la App</strong></td>
+    <td>Totalmente dispuesta, siempre que sea sencilla de utilizar, facíl de entender y un canal para los pagos.</td>
+  </tr>
+</table>
+
+<br>
+<h5>Análisis de la Entrevista - Cielo Rafaile</h5>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Medios de Comunicación</strong></td>
+    <td>Usa principalmente WhatsApp para comunicación rápida y directa</td>
+  </tr>
+  <tr>
+    <td><strong>Herramientas Actuales</strong></td>
+    <td>Coordina reuniones mediante WhatsApp, correo electrónico o llamadas via Zoom.</td>
+  </tr>
+  <tr>
+    <td><strong>Dificultades para la Participación</strong></td>
+    <td>En ocasiones las respuestas no son inmediatas y falta de organización en los mensajes del inversor hacia los freelancer contratados.</td>
+  </tr>
+  <tr>
+    <td><strong>Problemas con los Canales Actuales</strong></td>
+    <td>Existe desorganización al manejar múltiples canales, no muestran un orden en los mensajes y los mensajes llegan con retraso.</td>
+  </tr>
+  <tr>
+    <td><strong>Información a Comunicar</strong></td>
+    <td>Pagos, fechas de reuniones. Requiere medios que garanticen visibilidad y lectura de notificaciones.</td>
+  </tr>
+  <tr>
+    <td><strong>Interés en Plataforma Digital</strong></td>
+    <td>Muy interesado sobre la propuesta. Busca centralizar avisos, quejas y actividades en conjunto en una sola herramienta digital que no presente complicaciones administrativas.</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades Deseadas</strong></td>
+    <td>Confirmación de lectura de notificaiones, calendario integrado, filtro para mensajes importantes, moderación de mensajes y alertas.</td>
+  </tr>
+  <tr>
+    <td><strong>Disposición a usar la App</strong></td>
+    <td>Totalmente dispuesta, siempre que sea sencilla de utilizar, facíl de entender y le permita reducir una gran carga operativa entre los usuarios.</td>
+  </tr>
+</table>
 
 ## 2.3. Needfinding
 
