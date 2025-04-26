@@ -1269,7 +1269,7 @@ Contexto de usuarios
 Contexto de compañia
 ![Company_diagram](Imagenes/DDD5_company.png)
 
-Contexto de projectos y contratacion
+Contexto de projectos y contratación
 ![Project_hiring_diagram](Imagenes/DDD3_project_and_hiring.png)
 
 
