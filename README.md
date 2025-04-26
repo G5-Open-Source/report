@@ -1039,7 +1039,16 @@ En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siem
 A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve las correctas composiciones del color, para dirigir diversas emociones.
 
 ### 4.2.2. Labeling Systems
-Para el uso de etiquetas de nuestro Landing Page, se ha elegido un lenguaje sencillo que permite a los usuarios familiarizarse con facilidad con las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera intuitiva.
+Para el uso de etiquetas de nuestro Landing Page, se ha elegido un lenguaje sencillo que permite a los usuarios familiarizarse con facilidad con las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera intuitiva, implementando lo siguiente:
+
+- Jerarquía visual: Aplicada en la estructura de módulos clave como "Foro", "Proyectos", "Invitaciones" y "Notificaciones", destacando la información más relevante (por ejemplo, alertas de seguridad o convocatorias urgentes). Esto permite que los usuarios tomen decisiones informadas de manera rápida.
+
+- Organización secuencial: Utilizada en procesos como la organización de reuniones entre miembros del proyecto o la gestión de foros, donde los pasos siguen una lógica temporal clara y guiada. Esto evita confusiones y mejora la experiencia del usuario.
+
+- Organización matricial: Empleada en paneles de reportes y análisis, donde los usuarios pueden comparar datos sobre la participación, el avance del proyecto, el historial de actividades, con etiquetas claras que facilitan la interpretación visual.
+
+Estos esquemas de etiquetado se han diseñado utilizando un lenguaje sencillo y accesible para todos los usuarios, empleando términos familiares como "Lista de proyectos", "Alerta de Seguridad" o "Propuesta de reunión", para que cualquier usuario pueda comprender y utilizar la plataforma sin dificultades, sin importar su nivel de conocimiento tecnológico.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
