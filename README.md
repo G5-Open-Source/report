@@ -1283,6 +1283,96 @@ Contexto de projectos y contratación
 <img src="Imagenes/DiagramaDeClasesDos.png" alt="DiagramadeclasesDos" title="DiagramadeclasesDos"/>
 
 ### 4.7.2. Class Dictionary
+
+**Usuario**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único del usuario | PRIMARY KEY |
+| nombre | String | Nombre completo del usuario | NOT NULL |
+| correo | String | Correo electrónico del usuario | UNIQUE, NOT NULL |
+| contraseña | String | Contraseña de acceso | NOT NULL |
+| membresía | Menbresía | Membresía asignada al usuario | |
+
+**ProgramadorFreelancer**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| país | String | País de residencia | NOT NULL |
+| habilidades | String | Lista o descripción de habilidades | NOT NULL |
+| conocimientos | String | Lista o descripción de conocimientos | NOT NULL |
+| perfil | Perfil | Perfil público del programador | |
+
+**Interesado**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| favoritos | List Perfil | Perfiles de freelancers marcados como favoritos | |
+
+**Perfil**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único del perfil | PRIMARY KEY |
+| descripción | String | Descripción del perfil | NOT NULL |
+| servicios_ofrecidos | List Servicio | Servicios que el freelancer ofrece |  |
+| servicios_realizados | List Servicio | Servicios que el freelancer ya completó |  |
+| promedio_estrellas | float | Promedio de estrellas obtenido en calificaciones | RANGE 1-5 |
+| comentarios | List Calificación | Lista de calificaciones y comentarios recibidos | |
+
+**Servicio**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único del servicio | PRIMARY KEY |
+| nombre | String | Nombre del servicio | NOT NULL |
+| descripción | String | Descripción del servicio | NOT NULL |
+
+**Necesidad**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único de la necesidad | PRIMARY KEY |
+| descripción | String | Descripción de la necesidad | NOT NULL |
+| interesado | Interesado | Usuario que publicó la necesidad | NOT NULL |
+| fecha_publicacion | DateTime | Fecha en que se publicó la necesidad | DEFAULT CURRENT_TIMESTAMP |
+
+**Chat**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único del chat | PRIMARY KEY |
+| programador | ProgramadorFreelancer | Programador participante | NOT NULL |
+| interesado | Interesado | Interesado participante | NOT NULL |
+| mensajes | List Mensaje | Lista de mensajes enviados |  |
+
+**Mensaje**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único del mensaje | PRIMARY KEY |
+| contenido | String | Texto del mensaje | NOT NULL |
+| fecha | DateTime | Fecha de envío| 	DEFAULT CURRENT_TIMESTAMP |
+| remitente | Usuario | Usuario que envió el mensaje | NOT NULL |
+
+**Calificación** 
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único de la calificación | PRIMARY KEY |
+| estrellas | float | Puntuación en estrellas | RANGE 1-5 |
+| comentario | String | Comentario adicional |  |
+| interesado | Interesado | Usuario que califica | NOT NULL |
+
+**Membresía**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | int | Identificador único de la membresía | PRIMARY KEY |
+| tipo | String | Tipo de membresía | NOT NULL |
+| fecha_activación | DateTime | Fecha de activación de la membresía | DEFAULT CURRENT_TIMESTAMP |
+| activo | boolean | Indica si la membresía está activa | NOT NULL |
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
