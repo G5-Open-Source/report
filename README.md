@@ -61,6 +61,10 @@ URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Rodrigo Liberato (TB1): Ayudo con el avance constante del documento y landing page. Asimismo avanzo la presentacion  |Rodrigo Liberato: Para este tipo de trabajo es muy importante para encaminar nuestro proyecto por el mejor camino, diviendo el trabajo entre los integrantes del equipo. 
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Rodrigo Liberato (TB1): Notifico los avances y separar los capitulos para avanzar cada semana.|   Rodrigo Liberato: Como equipo hemnos tenido una comunicacion constante y colaborativa para todos los trabajos, ademas que gracias a Github, es mas facil saber quienes logran avanzar a tiempo para no tener t           |
 |  
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Adriana Diestra (TB1): Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera|Adriana Diestra: Resalto mi trabajo en equipo y el apoyo mutuo entre todos nuestros compañeros.     | 
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Adriana Diestra (TB1): Durante el desarrollo del trabajo realizó user personas, user task matrix, user Journey mapping, empathy mapping, as-is scenario mapping, organization systems,  labeling systems, searching and navigation|   Adriana Diestra: Equipo logro una meta concreta y llegamos a cumplir todos los objetivos establecidos          |
+|  
+
 
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
