@@ -37,7 +37,7 @@ Desarrollo de aplicaciones Open Source <br>
  
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     |   |  | |                                                                                     |
+| TB1     | 26/04/2025  | Rodrigo Liberato, Adriana Diestra, Kael Lagos, Diego Seijas, Renato Yauri|Se añadieron los capítulos del 1 al 5, se desarrollaron las entrevistas junto a sus análisis, se desarrollo un prototipo del Landing Page, se adjuntaron capturas de los gráficos correspondientes a los puntos solicitados y se implementaron las conclusiones junto a sus citas bibliograficas así como sus anexos correspondientes.|                                                                                     |
 
 </div>
 
