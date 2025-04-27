@@ -1299,7 +1299,7 @@ Contexto de projectos y contratación
 | nombre | String | Nombre completo del usuario | NOT NULL |
 | correo | String | Correo electrónico del usuario | UNIQUE, NOT NULL |
 | contraseña | String | Contraseña de acceso | NOT NULL |
-| membresía | Menbresía | Membresía asignada al usuario | |
+| membresía | Membresía | Membresía asignada al usuario | |
 
 **ProgramadorFreelancer**
 
