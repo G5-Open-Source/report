@@ -43,7 +43,13 @@ Desarrollo de aplicaciones Open Source <br>
 
 # Project Report Collaboration Insights
 
-URL del repositorio para el informe del TB1:
+URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/report.git](https://github.com/G5-Open-Source/report.git)
+
+![insights](Imagenes/insights.png)
+
+
+![performance](Imagenes/performance.png)
+
 
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
@@ -53,6 +59,9 @@ URL del repositorio para el informe del TB1:
 |                                                                                                      |                     |              |
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Diego Seijas (TB1): Llevo a cabo el desarrollo Total de la landing page , desarrollo del mockup, wireframe,guia de deploy de la pagina/deploy.  |Diego Seijas: Cosidero que este primer paso es demasiado importante para encaminar nuestro proyecto ya que la landing page como tal es lo mas general e importante del proyecto, como cualquier trabajo grupal la comunicación es lo más importante.
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Diego Seijas (TB1): Solucionó algunos de los errores que se presentaron en la pagina además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|   Diego Seijas: Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.           |
+|  
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Rodrigo Liberato (TB1): Ayudo con el avance constante del documento y landing page. Asimismo avanzo la presentacion  |Rodrigo Liberato: Para este tipo de trabajo es muy importante para encaminar nuestro proyecto por el mejor camino, diviendo el trabajo entre los integrantes del equipo. 
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Rodrigo Liberato (TB1): Notifico los avances y separar los capitulos para avanzar cada semana.|   Rodrigo Liberato: Como equipo hemnos tenido una comunicacion constante y colaborativa para todos los trabajos, ademas que gracias a Github, es mas facil saber quienes logran avanzar a tiempo para no tener t           |
 |  
 
 # Contenido
