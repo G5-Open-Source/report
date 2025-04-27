@@ -66,8 +66,6 @@ URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/
 | | |  
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Renato Yauri (TB1): Diseñé la base de datos del proyecto, elaboré el diagrama de clases y el diccionario de clases. Además, desarrollé los apartados 1.2.2 Lean UX Process, incluyendo: 1.2.2.1 Lean UX Problem Statements, 1.2.2.2 Lean UX Assumptions, 1.2.2.3 Lean UX Hypothesis Statements, 1.2.2.4 Lean UX Canvas, así como el apartado 1.3 Segmentos objetivo. |Renato Yauri: Considero que el desarrollo de una base técnica clara y bien fundamentada fue esencial para que el equipo pudiera avanzar de manera ordenada, asegurando una correcta alineación con los objetivos del proyecto.     | 
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Renato Yauri (TB1): Coordiné avances y entregables principalmente con un integrante del equipo, asegurando la integración de mi trabajo técnico en el desarrollo general del proyecto.|   Renato Yauri: La comunicación fluida y la disposición para apoyar en lo necesario ayudaron a que el equipo cumpliera los objetivos planteados y mantuviera un flujo de trabajo colaborativo.         |
-|  
-
 
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
