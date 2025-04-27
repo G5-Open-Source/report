@@ -43,7 +43,7 @@ Desarrollo de aplicaciones Open Source <br>
 
 # Project Report Collaboration Insights
 
-TB1: 
+URL del repositorio para el informe del TB1:
 
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
