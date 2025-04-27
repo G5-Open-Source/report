@@ -1324,7 +1324,7 @@ Contexto de projectos y contratación
 | descripción | String | Descripción del perfil | NOT NULL |
 | servicios_ofrecidos | List Servicio | Servicios que el freelancer ofrece |  |
 | servicios_realizados | List Servicio | Servicios que el freelancer ya completó |  |
-| promedio_estrellas | float | Promedio de estrellas obtenido en calificaciones | RANGE 1-5 |
+| promedio_estrellas | float | Promedio de estrellas obtenido en calificaciones | RANGE 0-5 |
 | comentarios | List Calificación | Lista de calificaciones y comentarios recibidos | |
 
 **Servicio**
@@ -1367,7 +1367,7 @@ Contexto de projectos y contratación
 | Attribute | Type | Description | Constraints |
 | :---- | :---- | :---- | :---- |
 | id | int | Identificador único de la calificación | PRIMARY KEY |
-| estrellas | float | Puntuación en estrellas | RANGE 1-5 |
+| estrellas | float | Puntuación en estrellas | RANGE 0-5 |
 | comentario | String | Comentario adicional |  |
 | interesado | Interesado | Usuario que califica | NOT NULL |
 
