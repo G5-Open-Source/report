@@ -531,7 +531,7 @@ Link de la entrevista: https://goo.su/cSor
     <tr><td><strong>Problemas</strong></td><td>Falta de información, poca confianza con los freelancer.</td></tr>
     <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta disposición a usar una app como BeCode.</td></tr>
     <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, notificaciones, foros o subforos para varios proyectos.</td></tr>
-    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales y bancarios al momento de pagar.</td></tr>
+    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales y bancarios al momento de pagar, falta de confianza en los desarrolladores freelancers sin un perfil detallado que muestre sus trabajos anteriores junto a sus resultados.</td></tr>
   </table>
 <br>
     <h5>Análisis de la Entrevista - Arturo Salinas</h5>
@@ -562,7 +562,7 @@ Link de la entrevista: https://goo.su/cSor
   </tr>
   <tr>
     <td><strong>Privacidad y Seguridad</strong></td>
-    <td>Preocupación por protección de datos personales y bancarios al momento de pagar.</td>
+    <td>Preocupación por protección de datos personales y bancarios al momento de pagar, asi como la necesidad de una garantia por el desarrollo contratado.</td>
   </tr>
 </table>
 <br>
