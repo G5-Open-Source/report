@@ -447,7 +447,7 @@ Capturas: <p align="center">
   <img src="Imagenes/Roberto2.png" alt="Roberto_imagen 2 " />
 </p>
 
-Descripción: Para esta entrevista perteneciente al sector de inversores, se le cuestionó al señor Roberto Carlos Figueroa sobre los distintos retos que enfrenta al momento de encontrar a jovenes que puedan desarrollar los trabajos que se le asignan. Más que nada por la poca confianza que presentan algunos o la perdida de efectivo al ver como el trabajo no fue desarrollado según lo acordado, en la entrevista se busca evidenciar estos aspectos y tambien se le pregunta su opinión sobre algunas caracteristicas que le gustaria ver en una aplicación que busque arreglar estas carencias.
+Descripción: Para esta entrevista perteneciente al sector de inversores, se le cuestionó al señor Roberto Carlos Figueroa sobre los distintos retos que enfrenta al momento de encontrar a jovenes que puedan desarrollar los trabajos que se le asignan. Más que nada por la poca confianza que presentan algunos o la perdida de efectivo al ver como el trabajo no fue desarrollado según lo acordado, en la entrevista se busca evidenciar estos aspectos y tambien se le pregunta su opinión sobre algunas caracteristicas que le gustaria ver en una aplicación que busque arreglar estas carencias. Según lo visto en las respuestas, se pueden sacar las siguientes conclusiones: Busca alguna garantia o seguridad al momento de contratar a algún freelancer que sea desconocido para ellos, valora en gran medida tanto el tiempo como la eficiencia en los desarrollos que él dirige, se llega a sentir más seguro al ver portafolios muy bien presentados en los cuales se puedan ver sus trabajos anteriores y la experiencia que ellos tienen. 
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/ETEPgWB_PNpHnnNq7M0v1a0Bq9KLEf13R_26KDh3-W2Pxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Flnx61
 
@@ -458,9 +458,9 @@ Nombre: Arturo Salinas
 Capturas:
 ![Arturo Salinas](Imagenes/entrevistaproyecto1.png)
 
-Descripción: Se entrevisto a un gestor de proyectos que nos cuenta su experiencia trabajando con freelancers y algunas recomendaciones que aplicaciones como la nuestra deberia de poseer.
+Descripción: Se entrevisto al señor Arturo Salinas, el cual ejerce como gestor de proyectos, acerca de su experiencia trabajando con freelancers y nos brindó algunas recomendaciones que nuestra aplicación deberia de tener para asegurar su impacto en el mercado. Entre las cosas más destacadas que comento se encuentran cosas como: La falta de profesionalismo al momento en que los freelancers contratados informen sobre sus avances o entreguen el trabajo antes de la fecha límite, la molestia que supone coordinar a equipos simultaneos o que no puedan comunicarse entre sí ocasionando la falta de una correcta organización, la experiencia como tal no es valida si acaso esa persona no presenta interés en que su trabajo esté desarrollado de buena forma, no son del todo confiables aquellas personas que inventan excusas al momento de asignarles una parte del desarrollo y que no suele confiar en freelancers que no cuenten con un perfíl detallado sobre sus trabajos anteriores junto a si acaso lograron alcanzar el resultado esperado.
 
-Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ERg2A9-SC5ZMloZJ_sp-5T8BkzQn778j_t5QtH5qM3vMxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=noMDca)
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ERg2A9-SC5ZMloZJ_sp-5T8BkzQn778j_t5QtH5qM3vMxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=noMDca
 
 Entrevista 3:
 ----------------------
@@ -469,9 +469,9 @@ Nombre: Santiago Mena Adriazen
 Capturas:
 ![Santiago Mena](Imagenes/entrevistaproyecto2.png)
 
-Descripción: Otro gestor de proyectos que brinda comentarios acerca de las funcionalidades que deberiamos de agregar a la aplicacion ademas de guiarnos un poco mas al rumbo que debemos enfocarnos.
+Descripción: Se entrevisto a otro gestor de proyectos, en este caso al señor Santiago Mena Adriazen, que brinda comentarios acerca de las funcionalidades que deberiamos de agregar a la aplicacion ademas de guiarnos un poco mas al rumbo que debemos enfocarnos. Según lo que comentó durante la entrevista, entre las cosas que destacó fueron aspectos como la confianza en los desarrolladores contratados debido a que no siempre son capaces de complir el trabajo que se les asigno muy a pesar de brindarles un tiempo de desarrollo justo, se le dificulta encontrar un medio que garantice la seguridad del cliente al momento de contratar a un freelancer más que nada porque considera que en la actualidad los freelancers son vistos como desarrolladores muy informales que representan un gran riesgo al momento de asignarles un proyecto, matizó que en ocasiones se encuentra a un freelancer que posea un buen expediente pero que suele ser en muy pocos casos y también comentó que le gustaria contar con alguna forma de verificar a la persona que está contratando con tal de asegurar la confiabilidad entre los dos con tal de evitar trabajos mal realizados o incompletos. 
 
-Link de la entrevista: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVa0oKq5V4hNqMY6MpJItYgBrZWmAH2X_H5WX1CeZuBM9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pBt7h0)
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVa0oKq5V4hNqMY6MpJItYgBrZWmAH2X_H5WX1CeZuBM9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pBt7h0
 
 
 ----------------------
