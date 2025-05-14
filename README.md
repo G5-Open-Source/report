@@ -542,6 +542,7 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218
     <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Alta disposición a usar una app como BeCode.</td></tr>
     <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Alertas, notificaciones, foros o subforos para varios proyectos.</td></tr>
     <tr><td><strong>Privacidad y Seguridad</strong></td><td>Preocupación por protección de datos personales y bancarios al momento de pagar, falta de confianza en los desarrolladores freelancers sin un perfil detallado que muestre sus trabajos anteriores junto a sus resultados.</td></tr>
+    
   </table>
 <br>
     <h5>Análisis de la Entrevista - Arturo Salinas</h5>
@@ -588,6 +589,8 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218
     <tr><td><strong>Privacidad y Seguridad</strong></td><td>No desea que su dirección o datos personales sean públicos.</td></tr>
   </table>
 <br>
+
+En conclusion, los patrones que podemos encontrar son que personas que puedan manejar equipos y necesitar de freelancers utiles sonn los principales sectores objetivos para nuestra aplicacion. Con esto tambien hallamos la seguridad, verificacion y adaptabilidad de la aplicacion debe ser escencial para ellos para manejar multiples proyectos al mismo tiempo.
 
 ### Freelancer
 
@@ -699,6 +702,8 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218
     <td>Totalmente dispuesta, siempre que sea sencilla de utilizar, facíl de entender y le permita reducir una gran carga operativa entre los usuarios.</td>
   </tr>
 </table>
+
+En conclusion, para este secotr objetivo, los Freelancers estarian mas que dispuestos a usar la aplicacion para ofrecer sus servicios, en los patrones encontramos que la verificacion de pagos es algo que requiere mucha importancia, debido a que es de lo que viven estas personas. Ademas notificaciones para poder estar al tanto de las nuevas actualizaciones de puestos de trabajo en empresas importantes o startups en crecimiento.
 
 ## 2.3. Needfinding
 
