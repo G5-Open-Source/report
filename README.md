@@ -29,7 +29,7 @@ Desarrollo de aplicaciones Open Source <br>
 
 </div>
 
-<p align="center"><strong>Abril 2025</strong></p>
+<p align="center"><strong>Mayo 2025</strong></p>
 
 # Registro de Versiones del Informe
 
@@ -38,7 +38,7 @@ Desarrollo de aplicaciones Open Source <br>
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 26/04/2025  | Rodrigo Liberato, Adriana Diestra, Kael Lagos, Diego Seijas, Renato Yauri|Se añadieron los capítulos del 1 al 5, se desarrollaron las entrevistas junto a sus análisis, se desarrollo un prototipo del Landing Page, se adjuntaron capturas de los gráficos correspondientes a los puntos solicitados y se implementaron las conclusiones junto a sus citas bibliograficas así como sus anexos correspondientes.|                                                                                     |
-
+| TP     | 15/05/2025  | Rodrigo Liberato, Adriana Diestra, Kael Lagos, Diego Seijas, Renato Yauri|Se arreglaron los apartados señalados en la retroalimentación del TB1, además de incluir los nuevos puntos asi como una versión preliminar del Fronted Web Applications.|                                                                                     |
 </div>
 
 # Project Report Collaboration Insights
@@ -52,20 +52,20 @@ URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, desarrollo las conclusiones, incluyó el apartado de bibliografia, incluyó 6 anexos y desarrollo los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4 .   | Kael Lagos: Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|   Kael Lagos: Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.           |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, desarrollo las conclusiones, incluyó el apartado de bibliografia, incluyó 6 anexos y desarrollo los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4.<br> <br>Kael Lagos (TP): Se llevo a cabo la corrección de la descripción de las entrevistas incluyendo los datos cualitativos que ayudan para el desarrollo del proyecto al identificar patrones comunes.<br>   | <br>Kael Lagos (TB1): Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.<br> <br>Kael Lagos (TP): Esta segunda entrega representa un nuevo paso hacia la realización de nuestro proyecto al tomar en cuenta los apartados a mejorar junto a la inclusión del nuevo contenido solicitado, siempre es importante mantener una comunicación constante con el grupo para mantenernos informados en todo momento.<br>
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.<br> <br>Kael Lagos (TP): Se solucionó el error de los links a las entrevistas que no funcionaban, además de ampliar la descripción de esas entrevistas junto a sus analisis con tal de no dejar ningún dato por resaltar.<br>|   <br>Kael Lagos (TB1): Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.<br> <br> Kael Lagos (TP): Considero que para esta nueva entrega, intente ser más comunicativo con mis compañeros al cuestionar sus avances en el desarrollo de la nueva entrega y tambien mi iniciativa al añadir nuevos apartados al informe que enriquecen su contenido ya de por sí extenso.<br>|
 |                                                                                                      |                     |              |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Diego Seijas (TB1): Llevo a cabo el desarrollo Total de la landing page , desarrollo del mockup, wireframe,guia de deploy de la pagina/deploy.  |Diego Seijas: Cosidero que este primer paso es demasiado importante para encaminar nuestro proyecto ya que la landing page como tal es lo mas general e importante del proyecto, como cualquier trabajo grupal la comunicación es lo más importante.
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Diego Seijas (TB1): Solucionó algunos de los errores que se presentaron en la pagina además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.|   Diego Seijas: Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.           |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Diego Seijas (TB1): Llevo a cabo el desarrollo Total de la landing page , desarrollo del mockup, wireframe,guia de deploy de la pagina/deploy.<br> <br>Diego Seijas (TP): <br>  |<br>Diego Seijas (TB1): Cosidero que este primer paso es demasiado importante para encaminar nuestro proyecto ya que la landing page como tal es lo mas general e importante del proyecto, como cualquier trabajo grupal la comunicación es lo más importante.<br> <br>Diego Seijas (TP): <br>
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Diego Seijas (TB1): Solucionó algunos de los errores que se presentaron en la pagina además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.<br> <br>Diego Seijas (TP): <br>|   <br>Diego Seijas (TB1): Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.<br> <br>Diego Seijas (TP):<br>           |
 |  ||
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Rodrigo Liberato (TB1): Ayudo con el avance constante del documento y landing page. Asimismo avanzo la presentacion  |Rodrigo Liberato: Para este tipo de trabajo es muy importante para encaminar nuestro proyecto por el mejor camino, diviendo el trabajo entre los integrantes del equipo. 
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Rodrigo Liberato (TB1): Notifico los avances y separar los capitulos para avanzar cada semana.|   Rodrigo Liberato: Como equipo hemnos tenido una comunicacion constante y colaborativa para todos los trabajos, ademas que gracias a Github, es mas facil saber quienes logran avanzar a tiempo para no tener retrasos           |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Rodrigo Liberato (TB1): Ayudo con el avance constante del documento y landing page. Asimismo avanzo la presentacion. <br> <br>Rodrigo Liberato (TP): <br>  |<br>Rodrigo Liberato (TB1): Para este tipo de trabajo es muy importante para encaminar nuestro proyecto por el mejor camino, diviendo el trabajo entre los integrantes del equipo.<br> <br>Rodrigo Liberato (TP): <br> 
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Rodrigo Liberato (TB1): Notifico los avances y separar los capitulos para avanzar cada semana.<br> <br>Rodrigo Liberato (TP): <br>|   <br>Rodrigo Liberato (TB1): Como equipo hemnos tenido una comunicacion constante y colaborativa para todos los trabajos, ademas que gracias a Github, es mas facil saber quienes logran avanzar a tiempo para no tener retrasos.<br> <br>Rodrigo Liberato (TP): <br>           |
 | | |  
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Adriana Diestra (TB1): Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera|Adriana Diestra: Resalto mi trabajo en equipo y el apoyo mutuo entre todos nuestros compañeros.     | 
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Adriana Diestra (TB1): Durante el desarrollo del trabajo realizó user personas, user task matrix, user Journey mapping, empathy mapping, as-is scenario mapping, organization systems,  labeling systems, searching and navigation|   Adriana Diestra: Equipo logro una meta concreta y llegamos a cumplir todos los objetivos establecidos          |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Adriana Diestra (TB1): Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera.<br> <br>Adriana Diestra (TP): <br>|<br>Adriana Diestra (TB1): Resalto mi trabajo en equipo y el apoyo mutuo entre todos nuestros compañeros.<br> <br> Adriana Diestra (TP): <br>     | 
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Adriana Diestra (TB1): Durante el desarrollo del trabajo realizó user personas, user task matrix, user Journey mapping, empathy mapping, as-is scenario mapping, organization systems,  labeling systems, searching and navigation.<br> <br>Adriana Diestra (TP): <br>|   <br>Adriana Diestra (TB1): Equipo logro una meta concreta y llegamos a cumplir todos los objetivos establecidos.<br> <br>Adriana Diestra (TP): <br>          |
 | | |  
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       Renato Yauri (TB1): Diseñé la base de datos del proyecto, elaboré el diagrama de clases y el diccionario de clases. Además, desarrollé los apartados 1.2.2 Lean UX Process, incluyendo: 1.2.2.1 Lean UX Problem Statements, 1.2.2.2 Lean UX Assumptions, 1.2.2.3 Lean UX Hypothesis Statements, 1.2.2.4 Lean UX Canvas, así como el apartado 1.3 Segmentos objetivo. |Renato Yauri: Considero que el desarrollo de una base técnica clara y bien fundamentada fue esencial para que el equipo pudiera avanzar de manera ordenada, asegurando una correcta alineación con los objetivos del proyecto.     | 
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       Renato Yauri (TB1): Coordiné avances y entregables principalmente con un integrante del equipo, asegurando la integración de mi trabajo técnico en el desarrollo general del proyecto.|   Renato Yauri: La comunicación fluida y la disposición para apoyar en lo necesario ayudaron a que el equipo cumpliera los objetivos planteados y mantuviera un flujo de trabajo colaborativo.         |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Renato Yauri (TB1): Diseñé la base de datos del proyecto, elaboré el diagrama de clases y el diccionario de clases. Además, desarrollé los apartados 1.2.2 Lean UX Process, incluyendo: 1.2.2.1 Lean UX Problem Statements, 1.2.2.2 Lean UX Assumptions, 1.2.2.3 Lean UX Hypothesis Statements, 1.2.2.4 Lean UX Canvas, así como el apartado 1.3 Segmentos objetivo.<br> <br>Renato Yauri (TP): <br> |<br>Renato Yauri (TB1): Considero que el desarrollo de una base técnica clara y bien fundamentada fue esencial para que el equipo pudiera avanzar de manera ordenada, asegurando una correcta alineación con los objetivos del proyecto.<br> <br>Renato Yauri (TP): <br>     | 
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Renato Yauri (TB1): Coordiné avances y entregables principalmente con un integrante del equipo, asegurando la integración de mi trabajo técnico en el desarrollo general del proyecto.<br> <br>Renato Yauri (TP): <br>|   <br>Renato Yauri (TB1): La comunicación fluida y la disposición para apoyar en lo necesario ayudaron a que el equipo cumpliera los objetivos planteados y mantuviera un flujo de trabajo colaborativo.<br> <br>Renato Yauri (TP): <br>         |
 
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
@@ -143,15 +143,25 @@ URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/
   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint ](#52x-sprint)
-    - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
-    - [5.2.1.2. Sprint Backlog n](#52x2-sprint-backlog-n)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
     - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
     - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3. Sprint Backlog 2](5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+
   
 - [Conclusiones](#conclusiones)
 - [Bibliografia](#bibliografía)
@@ -1651,6 +1661,24 @@ Para el desarrollo de este primer avance se dividieron las tareas entre los inte
 <p align="center">
   <img src="Imagenes/ParticipaciónGrupal4.png" alt="Code frequency" />
 </p>
+
+<div id='5.2.2.'><h4> 5.2.2. Sprint 2. </h4></div>
+
+<div id='5.2.2.1.'><h4> 5.2.2.1. Sprint Planning 2. </h4></div>
+
+<div id='5.2.2.2.'><h4> 5.2.2.2. Aspect Leaders and Collaborators. </h4></div>
+
+<div id='5.2.2.3.'><h4> 5.2.2.3. Sprint Backlog 2. </h4></div>
+
+<div id='5.2.2.4.'><h4> 5.2.2.4. Development Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4></div>
+
+<div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint. </h4></div>
 
 ## Conclusiones
 
