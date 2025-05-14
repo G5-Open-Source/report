@@ -1284,7 +1284,7 @@ Link del video:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210167_upc_
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
-En este sector del trabajo presentar el diagrama de contexto que muestra de una forma sencilla como estara estructurado el sistema y sus funcionalidades.
+En este sector del trabajo presentar el diagrama de contexto que muestra de una forma sencilla como estara estructurado el sistema y sus funcionalidades. Para este modelo DDD se utilizo el framework: [https://online.visual-paradigm.com/es/](https://online.visual-paradigm.com/es/)
 ![Context_diagram](Imagenes/DDD1.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
