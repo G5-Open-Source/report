@@ -217,7 +217,7 @@ Por otro lado, se utilizó la metodología ‘5W y 2H' para describir a detalle 
 
 ¿Qué es BeCode?
 
-BeCode es una plataforma web para contratar programadores freelance o equipos de desarrollo por horas, donde los usuarios puedan contratar mediante membresías.
+BeCode es una plataforma web para contratar programadores freelance o equipos de desarrollo por horas, donde los usuarios puedan contratar mediante membresías. Asimismo incluiremos una gran garantia de satisfaccion para todos los usuarios que esten dispuestos a usarla.
 
 - ¿Por qué?
 
