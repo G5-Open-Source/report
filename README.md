@@ -517,7 +517,7 @@ Capturas:
 
 Descripción: Se entrevistó a una diseñadora UX/UI freelance, quien compartió su experiencia trabajando desde casa y usando plataformas digitales para conseguir proyectos. Comentó sobre los desafíos actuales en su rubro, como la baja valoración del trabajo creativo y la fuerte competencia en apps globales. Además, destacó la importancia de la flexibilidad, pagos justos y la claridad en los acuerdos. Finalmente, brindó recomendaciones clave para una aplicación de este tipo, como perfiles verificados y sistema de pagos seguro.
 
-Link de la entrevista: https://goo.su/cSor
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218110_upc_edu_pe/EfxuFVJUuNtLqzz7udrkpaoBmARsKehxgG8N73OB2bRs8Q?e=bOVMwL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
 ----------------------
 ### 2.2.3. Análisis de entrevistas
