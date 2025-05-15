@@ -1608,9 +1608,6 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 | US-03          | Comparación de Membresías   | Como visitante, quiero comparar membresías para elegir la más adecuada.                         |        1.5          |          Diego Sejias       |        Done     |
 | US-04          | Sección de Contacto         | Como visitante, quiero poder contactar a BeCode desde la landing page para resolver dudas.       |        2           |         Diego Sejias        |       Done      |
 
-
-
-
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 En esta sección se presentan las evidencias del desarrollo de la Landing Page de BeCode durante el primer sprint de desarrollo.
@@ -1671,9 +1668,43 @@ Para el desarrollo de este primer avance se dividieron las tareas entre los inte
 
 <div id='5.2.2.1.'><h4> 5.2.2.1. Sprint Planning 2. </h4></div>
 
+| Sprint #                             | Sprint 2                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-04-26        |
+| Time           | 3:00 PM                      |
+| Location       | Virtual - Meet - Whatsapp              |
+| Prepared By    | Rodrigo Liberato               |
+| Attendees (to planning meeting)| Adriana Maria Diestra Zambrano, Rodrigo Liberato, Renato Yauri Chocce, Kael Lagos Rivera, Diego Antonio Seijas Vasquez Gutarra                   |
+| Sprint n - 2 Review Summary    | Durante este sprint se propuso de objetivo crear el frontend funcional y desplegarlo en un servidor cloud, especificamente Firebase.                                           |
+| Sprint n - 2 Retrospective Summary | Al final de este Sprint, se logro llegar a abarcar todos los aspectos de mejora que se mencionaron en el primer Sprint, asimismo, satisfactoriamente se consiguio el desarrollo y el despliegue del Frontend.|
+| Sprint 2 Goal                  | Nuestra prioridad en este sprint es desarrollar y desplegar el Frontend con las funcionalidades mas llamativas para todos los usuarios. |
+| Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 5 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  5.                                            |
+
+
 <div id='5.2.2.2.'><h4> 5.2.2.2. Aspect Leaders and Collaborators. </h4></div>
+Para este sprint, esta seccion se mantuvieron los roles del anterior Sprint, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Liberato Saldaña Rodrigo          | Libeman10     | L                   | 
+| Adriana Maria Diestra Zambrano          | adriiiiii123     | C                   | 
+| Renato Yauri Chocce          | JavierRog            | C                   |  
+| Kael Lagos Rivera        | Kaellagos     | C                   | 
+| Diego Antonio Seijas Vasquez           | NotSeijas| C                   |  
 
 <div id='5.2.2.3.'><h4> 5.2.2.3. Sprint Backlog 2. </h4></div>
+
+| Sprint 2 | ID     | Título                       | Descripción                                                                                              | Estimación (hrs) | Assigned to | Status |
+|----------|--------|------------------------------|----------------------------------------------------------------------------------------------------------|------------------|--------------|--------|
+|          | US-04  | Sección de Contacto          | Como visitante, quiero poder contactar a BeCode desde la landing page para resolver dudas.              | 2                |Adriana Maria Diestra Zambrano   | Done   |
+|          | US-05  | Sección de Testimonios       | Como visitante, quiero leer testimonios de usuarios para conocer su experiencia.                        | 1.5              |Adriana Maria Diestra Zambrano| Done   |
+|          | US-06  | Preguntas Frecuentes (FAQ)   | Como visitante, quiero resolver dudas accediendo a la sección de FAQ.                                   | 1.5              |Renato Yauri Chocce | Done   |
+|          | US-07  | Registro de Freelancers      | Como desarrollador, quiero registrarme para ofrecer mis servicios.                                      | 3                |Diego Antonio Seijas Vasquez| Done   |
+|          | US-08  | Registro de Clientes         | Como cliente, quiero registrarme para publicar necesidades de proyectos.                                | 3                |Diego Antonio Seijas Vasquez| Done   |
+|          | US-09  | Filtrar Freelancers          | Como cliente, quiero filtrar programadores por habilidades o experiencia.                               | 2.5              |Liberato Saldaña Rodrigo   | Done   |
+|          | US-10  | Visualización de Proyectos   | Como desarrollador, quiero ver proyectos adecuados a mis habilidades.                                   | 2.5              |Liberato Saldaña Rodrigo   | Done   |
+|          | US-11  | Sistema de Mensajería        | Como usuario, quiero comunicarme directamente con otros usuarios desde la plataforma para discutir detalles del proyecto. | 4                |Kael Lagos Rivera | Done   |
 
 <div id='5.2.2.4.'><h4> 5.2.2.4. Development Evidence for Sprint Review. </h4></div>
 
