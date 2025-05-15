@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,8 +168,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "99dd54af2f7e315c",
+  "active": "e63621951671c8bf",
   "lastOpenFiles": [
+    "Sin título.md",
+    "README.md",
+    "Sin nombre",
     "Imagenes/entrevistaproyecto2.png",
     "Imagenes/entrevistaproyecto1.png",
     "Imagenes/Zuriel_imagen2.png",
@@ -180,7 +182,6 @@
     "Imagenes/Logo_BeCode.png",
     "Imagenes/Inversor__.png",
     "Imagenes/Inversor_.png",
-    "Imagenes/Freelance__.png",
-    "Imagenes/Freelance_.png"
+    "Imagenes/Freelance__.png"
   ]
 }
