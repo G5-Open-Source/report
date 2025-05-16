@@ -1706,13 +1706,76 @@ Para este sprint, esta seccion se mantuvieron los roles del anterior Sprint, en 
 
 <div id='5.2.2.4.'><h4> 5.2.2.4. Development Evidence for Sprint Review. </h4></div>
 
+En esta sección se presentan las evidencias del desarrollo del Frontend de BeCode durante el segundo sprint de desarrollo.
+| Repository                                   | Branch | Commit Id | Commit Message                                 | Commit Message Body | Committed on (Date) |
+|----------------------------------------------|--------|-----------|------------------------------------------------|----------------------|---------------------|
+| https://github.com/G5-Open-Source/frontend   | master | 6fe6bac   | fix: routes from buttons                        |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 2ad3819   | feat: added freelancer form and investor form   |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 8727b1e   | fix: forum-input                                |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 38ef2a8   | feat: forum-details for the forums.             |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | f9edf09   | fix: forum-pages shown                          |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | e102542   | Merge branch 'master' of https://github.com/G5-Open-Source/frontend |      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 1958097   | feat: Added Route forum                         |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | de882ab   | feat: added project info                        |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | e5e3577   | feat: added models                              |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 6be747b   | feat: added the section forum                   |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | fa69664   | feat: added the section forum                   |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | bc4cf77   | feat: added the section forum                   |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 54e291d   | feat: added the section forum                   |                      | May 16, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 2bd8727   | UPDATE: all color login-register-forms         |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 3b92add   | Merge branch 'master' of https://github.com/G5-Open-Source/frontend | | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | eb183be   | Update login.component.html                    |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 198ea5d   | Update landing-page.component.html             |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 2420ea0   | FIX: LOGIN - REGISTER BUGS!                    |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 8ac8e76   | FIX: login-register                            |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 3e538cd   | Update landing-page.component.html             |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 25516cf   | FIX: all change web app                         |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | a2a66f1   | FIX: color card                                 |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 4499b6e   | FIX-CSS: all order and image css                |                      | May 15, 2025        |
+| https://github.com/G5-Open-Source/frontend   | master | 44027f9   | feat: added landing page, search context and projects shown |            | May 7, 2025         |
+| https://github.com/G5-Open-Source/frontend   | master | dbeeeee   | initial commit                                  |                      | May 7, 2025         |
+
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review. </h4></div>
+
+En esta sección se presenta la ejecucion del frontend para esta entrega.
+
+![execution1](Imagenes/execution_sprint2_1.png)
+
+![execution2](Imagenes/execution_sprint2_2.png)
+
+![execution3](Imagenes/execution_sprint2_3.png)
+
+![execution4](Imagenes/execution_sprint2_4.png)
+
+![execution5](Imagenes/execution_sprint2_5.png)
+
+![execution6](Imagenes/execution_sprint2_6.png)
+
+![execution7](Imagenes/execution_sprint2_7.png)
 
 <div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h4></div>
 
+No se implemento ningun servicio por el momento.
+
 <div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4></div>
 
+Para el deployment se utilizo Firebase para el despliegue del Frontend utilizando los servicios de servidor cloud.
+
+URL: [https://becode-89bd2.web.app](https://becode-89bd2.web.app)
+![deployment](Imagenes/deployment-1.png)
+
+![deployment2](Imagenes/deployment-2.png)
+
+
+
 <div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint. </h4></div>
+
+#### Report
+![insights-report](Imagenes/report_insight.png)
+
+#### Frontend
+![insights-frontend](Imagenes/insights_sprint2.png)
+
 
 ## Conclusiones
 
