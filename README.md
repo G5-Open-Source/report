@@ -1303,7 +1303,7 @@ Contexto de projectos y contratación
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-<img src="Imagenes/DiagramaDeClasesDos.png" alt="DiagramadeclasesDos" title="DiagramadeclasesDos"/>
+<img src="Imagenes/DiagramaDeClasesTres.png" alt="DiagramadeclasesTres" title="DiagramadeclasesTres"/>
 
 ### 4.7.2. Class Dictionary
 
