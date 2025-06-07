@@ -39,6 +39,7 @@ Desarrollo de aplicaciones Open Source <br>
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 26/04/2025  | Rodrigo Liberato, Adriana Diestra, Kael Lagos, Diego Seijas, Renato Yauri|Se añadieron los capítulos del 1 al 5, se desarrollaron las entrevistas junto a sus análisis, se desarrollo un prototipo del Landing Page, se adjuntaron capturas de los gráficos correspondientes a los puntos solicitados y se implementaron las conclusiones junto a sus citas bibliograficas así como sus anexos correspondientes.|                                                                                     |
 | TP     | 15/05/2025  | Rodrigo Liberato, Adriana Diestra, Kael Lagos, Diego Seijas, Renato Yauri|Se arreglaron los apartados señalados en la retroalimentación del TB1, además de incluir los nuevos puntos asi como una versión preliminar del Fronted Web Applications.|                                                                                     |
+| TB2     | 26/06/2025  | Rodrigo Liberato, Adriana Diestra, Kael Lagos, Diego Seijas, Renato Yauri| |  
 </div>
 
 # Project Report Collaboration Insights
@@ -52,8 +53,8 @@ URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, desarrollo las conclusiones, incluyó el apartado de bibliografia, incluyó 6 anexos y desarrollo los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4, además de desarrollar la pestaña de los foros en el Fronted Web Applications.<br> <br>Kael Lagos (TP): Se llevo a cabo la corrección de la descripción de las entrevistas incluyendo los datos cualitativos que ayudan para el desarrollo del proyecto al identificar patrones comunes.<br>   | <br>Kael Lagos (TB1): Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.<br> <br>Kael Lagos (TP): Esta segunda entrega representa un nuevo paso hacia la realización de nuestro proyecto al tomar en cuenta los apartados a mejorar junto a la inclusión del nuevo contenido solicitado, siempre es importante mantener una comunicación constante con el grupo para mantenernos informados en todo momento.<br>
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.<br> <br>Kael Lagos (TP): Se solucionó el error de los links a las entrevistas que no funcionaban, además de ampliar la descripción de esas entrevistas junto a sus analisis con tal de no dejar ningún dato por resaltar, además de desarrollar la pestaña de los foros en el Fronted Web Applications.<br>|   <br>Kael Lagos (TB1): Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.<br> <br> Kael Lagos (TP): Considero que para esta nueva entrega, intente ser más comunicativo con mis compañeros al cuestionar sus avances en el desarrollo de la nueva entrega y tambien mi iniciativa al añadir nuevos apartados al informe que enriquecen su contenido ya de por sí extenso.<br>|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Kael Lagos (TB1): Llevo a cabo el desarrollo de la introducción del proyecto, aporto 3 entrevistas para el capítulo 2, desarrollo las conclusiones, incluyó el apartado de bibliografia, incluyó 6 anexos y desarrollo los puntos 4.4.1, 4.4.2, 4.4.3 y 4.4.4, además de desarrollar la pestaña de los foros en el Fronted Web Applications.<br> <br>Kael Lagos (TP): Se llevo a cabo la corrección de la descripción de las entrevistas incluyendo los datos cualitativos que ayudan para el desarrollo del proyecto al identificar patrones comunes.<br> <br>Kael Lagos (TB2): <br>  | <br>Kael Lagos (TB1): Cosidero que este primer paso es muy importante para encaminar nuestro proyecto por el camino adecuado que aseguré nuestro exito en su desarrollo, como cualquier trabajo grupal la comunicación es lo más importante.<br> <br>Kael Lagos (TP): Esta segunda entrega representa un nuevo paso hacia la realización de nuestro proyecto al tomar en cuenta los apartados a mejorar junto a la inclusión del nuevo contenido solicitado, siempre es importante mantener una comunicación constante con el grupo para mantenernos informados en todo momento.<br> <br>Kael Lagos (TB2): <br>
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Kael Lagos (TB1): Solucionó algunos de los errores que se presentaron en el informe además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.<br> <br>Kael Lagos (TP): Se solucionó el error de los links a las entrevistas que no funcionaban, además de ampliar la descripción de esas entrevistas junto a sus analisis con tal de no dejar ningún dato por resaltar, además de desarrollar la pestaña de los foros en el Fronted Web Applications.<br> <br>Kael Lagos (TB2): <br>|   <br>Kael Lagos (TB1): Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.<br> <br> Kael Lagos (TP): Considero que para esta nueva entrega, intente ser más comunicativo con mis compañeros al cuestionar sus avances en el desarrollo de la nueva entrega y tambien mi iniciativa al añadir nuevos apartados al informe que enriquecen su contenido ya de por sí extenso.<br> <br>Kael Lagos (TB2): <br>|
 |                                                                                                      |                     |              |
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       <br>Diego Seijas (TB1): Llevo a cabo el desarrollo Total de la landing page , desarrollo del mockup, wireframe,guia de deploy de la pagina/deploy.<br> <br>Diego Seijas (TP): Desarrollo la pantalla del Login y el register del Frontend, además de ayudar a sus compañeros para el desarrollo de las demás partes.<br>  |<br>Diego Seijas (TB1): Cosidero que este primer paso es demasiado importante para encaminar nuestro proyecto ya que la landing page como tal es lo mas general e importante del proyecto, como cualquier trabajo grupal la comunicación es lo más importante.<br> <br>Diego Seijas (TP): Esta segunda entrega funciona como un filtro muy importante, en el cuál ponemos a prueba el desarrollo de nuestra idea. Lo cuál al principio llega a ser algo abrumador, pero con el apoyo de los demás se puede superar.<br>
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |       <br>Diego Seijas (TB1): Solucionó algunos de los errores que se presentaron en la pagina además de informar cualquier avance realizado en el trabajo o cualquier modificación hecha a sus compañeros.<br> <br>Diego Seijas (TP): Brindo asistencia a los distintos miembros del grupo durante el desarrollo y también informo sobre cualquier cambio desarrollado en el informe.<br>|   <br>Diego Seijas (TB1): Siento que me he comunicado de gran forma con mi grupo, procuré darles una respuesta lo más rápida posible para evitar malentendidos y siempre anunciaba los cambios que le hacia al doc en el cual estabamos trabajando todos.<br> <br>Diego Seijas (TP): Siento que cumplí de buena forma mi rol en el grupo al estar siempre comunicando cualquier cambio en el informe y también al brindar apoyo a quien lo necesitase.<br>           |
@@ -161,6 +162,20 @@ URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-2)
+    - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 2](#5233-sprint-backlog-2)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#54-video-about-the-product)
 
   
 - [Conclusiones](#conclusiones)
@@ -1776,6 +1791,45 @@ URL: [https://becode-89bd2.web.app](https://becode-89bd2.web.app)
 #### Frontend
 ![insights-frontend](Imagenes/insights_sprint2.png)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3.
+
+| Sprint #                             | Sprint 3                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-06-26        |
+| Time           | 4:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Rodrigo Liberato               |
+| Attendees (to planning meeting)| Adriana Maria Diestra Zambrano, Rodrigo Liberato, Renato Yauri Chocce, Kael Lagos Rivera, Diego Antonio Seijas Vasquez Gutarra                   |
+| Sprint n - 3 Review Summary    |                                            |
+| Sprint n - 3 Retrospective Summary |                                      |
+| Sprint 3 Goal                  |  |
+| Sprint 3 Velocity              |                                                 |
+| Sum of Story Points            |                                           |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+Para este sprint, esta seccion se mantuvieron los roles del anterior Sprint, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Liberato Saldaña Rodrigo          | Libeman10     | L                   | 
+| Adriana Maria Diestra Zambrano          | adriiiiii123     | C                   | 
+| Renato Yauri Chocce          | JavierRog            | C                   |  
+| Kael Lagos Rivera        | Kaellagos     | C                   | 
+| Diego Antonio Seijas Vasquez           | NotSeijas| C                   |  
+
+#### 5.2.3.3. Sprint Backlog 3.
+#### 5.2.3.4. Development Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product.
 
 ## Conclusiones
 
