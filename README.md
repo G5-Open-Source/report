@@ -163,9 +163,9 @@ URL del repositorio para el informe del TB1: [https://github.com/G5-Open-Source/
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.2.3. Sprint 3](#523-sprint-3)
-    - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-2)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-2)
     - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-    - [5.2.3.3. Sprint Backlog 2](#5233-sprint-backlog-2)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-2)
     - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
     - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
@@ -1801,9 +1801,9 @@ URL: [https://becode-89bd2.web.app](https://becode-89bd2.web.app)
 | Location       | Virtual - Meet               |
 | Prepared By    | Rodrigo Liberato               |
 | Attendees (to planning meeting)| Adriana Maria Diestra Zambrano, Rodrigo Liberato, Renato Yauri Chocce, Kael Lagos Rivera, Diego Antonio Seijas Vasquez Gutarra                   |
-| Sprint n - 3 Review Summary    |                                            |
-| Sprint n - 3 Retrospective Summary |                                      |
-| Sprint 3 Goal                  |  |
+| Sprint n - 3 Review Summary    |  Durante este Sprint se propuso desarrollar un backend en el cuál se gestiona una base de datos dónde se le asigna un ID a cada usuario registrado.                                   |
+| Sprint n - 3 Retrospective Summary | Tomando en cuenta los puntos vistos y desarrollados del Sprint anterior, se llegó a la conclusión de que es necesario tener una base de datos en la cuál se gestione a los distintos usuarios de la aplicación asignandoles a cada uno un ID que sería su llave para entrar a la aplicación.                       |
+| Sprint 3 Goal                  | La prioridad principal en éste caso es crear un backend que sirva como base de datos en la cuál al momento de registrarse, la información de la persona sea guardada dentro aparte también de que se le asigne una llave de ingreso al aplicativo.|
 | Sprint 3 Velocity              |                                                 |
 | Sum of Story Points            |                                           |
 
