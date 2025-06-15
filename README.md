@@ -1826,7 +1826,58 @@ Para este sprint, esta seccion se mantuvieron los roles del anterior Sprint, en 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
+
+En está sección se detalla la experiencia de los usuarios al momento de usar la aplicación mediante el registro de entrevistas.
+
 ### 5.3.1. Diseño de Entrevistas.
+
+Se llevaron a cabo entrevistas que buscan saber sus opiniones sobre como funciona la aplicación y si la Interfaz les fue sencilla de entender.
+
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
+
+#### Objetivo de la entrevista
+
+Validar la usabilidad, claridad y funcionalidad de la aplicación *BeCode* en distintos perfiles de usuario, evaluando si los flujos de interacción fueron fáciles de entender, y si la interfaz resultó intuitiva y útil para comunicarse entre desarrolladores e inversores .
+
+#### Elementos de validación
+
+**Aplicación:**
+Se guió a los usuarios a través de las pantallas principales de la aplicación, evaluando especialmente la navegación, la comprensión de los botones e íconos, y la facilidad para realizar acciones básicas como ver anuncios, enviar mensajes o explorar las funcionalidades del perfil.
+
+#### User Flows a validar
+
+**Para usuarios generales (desarrolladores):**
+
+* **Visualización de invitaciones:** Comprobación de si fue fácil acceder a las invitaciones enviadas por inversores a un proyecto.
+* **Interacción en grupos:** Evaluación de la claridad del chat grupal o espacios de discusión en general.
+* **Navegación en la app:** Nivel de dificultad para encontrar y entender las secciones principales (inicio, perfil, notificaciones, etc.).
+
+**Para usuarios con rol de inversores:**
+
+* **Publicación de comunicados:** Verificación de la facilidad para redactar, publicar mensajes de invitación y notificación para los desarrolladores.
+* **Gestión de usuarios o grupos:** Evaluación de si fue sencillo identificar a los desarrolladores registrados o enviar mensajes a grupos específicos.
+
+#### Formato de registro de la entrevista
+
+**Datos del entrevistado:**
+
+* Nombre y apellidos
+* Edad
+* Distrito de residencia
+* Rol (desarrollador o inversor)
+* Dispositivo utilizado (smartphone, tablet, laptop)
+
+#### Preguntas aplicadas
+
+1. ¿Qué te pareció la aplicación en general?
+2. ¿Te resultó fácil entender cómo usarla?
+3. ¿Pudiste encontrar rápido lo que buscabas, como comunicarte con desarrolladores o ver notificaciones?
+4. ¿Te parecieron claros los botones e íconos?
+5. ¿Cambiarías algo del diseño o de cómo están ordenadas las cosas en la app?
+6. ¿Recomendarías esta app a alguien de tu entorno? ¿Por qué sí o por qué no?
+7. ¿Hubo algo que no entendiste o que te confundió mientras usabas la app?
+8. ¿Sentiste que la aplicación es útil para comunicarte con otros usuarios ya sea desarrolladores o inversores? ¿Por qué?
+
 ### 5.3.2. Registro de Entrevistas.
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product.
