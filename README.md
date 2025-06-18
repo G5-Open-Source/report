@@ -1879,6 +1879,63 @@ Se guió a los usuarios a través de las pantallas principales de la aplicación
 8. ¿Sentiste que la aplicación es útil para comunicarte con otros usuarios ya sea desarrolladores o inversores? ¿Por qué?
 
 ### 5.3.2. Registro de Entrevistas.
+
+Entrevista 1:
+----------------------
+Nombre: Zuriel Andrea Rivera
+
+Capturas: <p align="center">
+  <img src="Imagenes/Zuriel_imagen3.png" alt="Zuriel_imagen3" />
+</p>
+
+<p align="center">
+  <img src="Imagenes/Zuriel_imagen4.png" alt="Zuriel_imagen4" />
+</p>
+
+Descripción: En esta entrevista realizada nuevamente a la señorita Zuriel Andrea Rivera, se le hicieron las 8 preguntas relacionadas a su experiencia utilizando la Aplicación. Su opinión general fue que le gustó la propuesta, la interfaz no es tan engorrosa al punto de confundir al usuario, los botones eran muy claros, los colores eran los indicados y el contenido estaba bien organizado en distintas secciones para que posea un mayor orden en la página. El único punto negativo que llegó a enfatizar es la carencia de una especie de guia que le enseñe a los nuevos usuarios como es que funciona la aplicación y cual es la forma correcta de usarse. En conclusión, le parecio una gran experiencia el usar la aplicación y definitivamente la recomendaria a más personas el usarla tanto para ponerse en contacto con otros desarrolladores o hasta con algunos inversionistas. 
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/EU2OCSBHNe5AuEfPqmiNRHQB1X9YaGOMdLb5XppgRJFESQ?e=1SeFPr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 2:
+----------------------
+Nombre:
+
+Capturas:
+
+Descripción:
+
+Link de la entrevista:
+
+Entrevista 3:
+----------------------
+Nombre:
+
+Capturas:
+
+Descripción:
+
+Link de la entrevista:
+
+Entrevista 4:
+----------------------
+Nombre:
+
+Capturas:
+
+Descripción:
+
+Link de la entrevista:
+
+Entrevista 5:
+----------------------
+Nombre:
+
+Capturas:
+
+Descripción:
+
+Link de la entrevista:
+
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product.
 
