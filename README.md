@@ -2034,13 +2034,15 @@ Link de la entrevista: [https://drive.google.com/file/d/1CjLVcuL0kAZDZ752CeG4ybc
 
 ## Entrevista 3:
 
-Nombre:
+Nombre: Sofia Torres
 
-Capturas:
+Capturas: ![sprint-3-entrevista](Imagenes/EntrevistaTres.png)
 
-Descripción:
+Descripción: Se realizó una entrevista a la Srta. Sofía, cuyo rol es de desarrolladora, con el objetivo de conocer su percepción y experiencia al interactuar con la aplicación. Durante la conversación, Sofía compartió sus impresiones sobre la usabilidad y la interfaz, específicamente desde la perspectiva del frontend.
 
-Link de la entrevista:
+A través de las preguntas planteadas, se lograron identificar diversas áreas de oportunidad y posibles mejoras que el equipo debería considerar para optimizar la aplicación. Sofía proporcionó un feedback valioso y constructivo, destacando puntos fuertes y sugiriendo ajustes que, sin duda, contribuirán a elevar la satisfacción de los usuarios y a perfeccionar la funcionalidad de la plataforma.
+
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317566_upc_edu_pe/EbDX9R-FOmNHrdZCW6Pp7d8BQp_3dJ7DIAJW7TaQR1ltsA?e=CRXzqE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317566_upc_edu_pe/EbDX9R-FOmNHrdZCW6Pp7d8BQp_3dJ7DIAJW7TaQR1ltsA?e=CRXzqE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Entrevista 4:
 
