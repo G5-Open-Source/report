@@ -1885,15 +1885,15 @@ Para este sprint, esta seccion se mantuvieron los roles del anterior Sprint, en 
 
 #### 5.2.3.3. Sprint Backlog 3.
 
-| **Sprint #**   | Sprint 3                                |        |                                    |                                                                                                                                 |                      |                 |            |
-| -------------- | --------------------------------------- | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------- |
-| **User Story** |                                         |        |                                    |                                                                                                                                 |                      |                 |            |
-| **ID**         | **Título**                              | **ID** | **Título**                         | **Descripción**                                                                                                                 | **Estimación (hrs)** | **Assigned to** | **Status** |
-| US-43          | Registro de usuario y compañía          | T43    | Registrar cuenta y compañía        | Como nuevo usuario, quiero registrarme y asociar mi cuenta a una compañía para poder acceder a los servicios de la plataforma   | 5                    |                 | Done       |
-| US-44          | Publicación y gestión de proyectos      | T44    | Crear y editar proyecto            | Como compañía, quiero publicar y gestionar proyectos para contratar freelancers que se ajusten a mis necesidades                | 6                    |                 | Done       |
-| US-45          | Comunicación entre usuarios             | T45    | Enviar y recibir mensajes          | Como usuario, quiero enviar mensajes a otros usuarios para coordinar detalles sobre proyectos o contrataciones                  | 5                    |                 | Done       |
-| US-46          | Gestión de suscripciones                | T46    | Activar suscripción a un plan      | Como compañía, quiero suscribirme a planes que me permitan acceder a funcionalidades adicionales de la plataforma               | 4                    |                 | Done       |
-| US-47          | Búsqueda de freelancers por habilidades | T47    | Buscar freelancers por habilidades | Como compañía, quiero buscar freelancers según sus habilidades y experiencia para encontrar el candidato ideal para mi proyecto | 6                    |                 | Done       |
+| **Sprint #**   | Sprint 3                                |        |                                    |                                                                                                                                 |                      |                  |            |
+| -------------- | --------------------------------------- | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                         |        |                                    |                                                                                                                                 |                      |                  |            |
+| **ID**         | **Título**                              | **ID** | **Título**                         | **Descripción**                                                                                                                 | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| US-43          | Registro de usuario y compañía          | T43    | Registrar cuenta y compañía        | Como nuevo usuario, quiero registrarme y asociar mi cuenta a una compañía para poder acceder a los servicios de la plataforma   | 5                    | Rodrigo Liberato | Done       |
+| US-44          | Publicación y gestión de proyectos      | T44    | Crear y editar proyecto            | Como compañía, quiero publicar y gestionar proyectos para contratar freelancers que se ajusten a mis necesidades                | 6                    | Diego Sejias     | Done       |
+| US-45          | Comunicación entre usuarios             | T45    | Enviar y recibir mensajes          | Como usuario, quiero enviar mensajes a otros usuarios para coordinar detalles sobre proyectos o contrataciones                  | 5                    | Adriana Diestra  | Done       |
+| US-46          | Gestión de suscripciones                | T46    | Activar suscripción a un plan      | Como compañía, quiero suscribirme a planes que me permitan acceder a funcionalidades adicionales de la plataforma               | 4                    | Kael Lagos       | Done       |
+| US-47          | Búsqueda de freelancers por habilidades | T47    | Buscar freelancers por habilidades | Como compañía, quiero buscar freelancers según sus habilidades y experiencia para encontrar el candidato ideal para mi proyecto | 6                    | Renato Yauri     | Done       |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
@@ -1948,7 +1948,25 @@ Aqui se demuestra la ejecucion de la API y creacion de la base de datos:
 Para esta nueva entrega se desarrollo el backend, el cual servirá como base datos la cual se encargará de registrar la información de los usuarios que usen la app en tablas.
 El link al repositorio: https://github.com/G5-Open-Source/backend
 
+Asimismo aqui se presenta el deploy del Backend utilizando Azure.
+
+![sprin3-deploy1](Imagenes/sprint3-deployment-evidence1.png)
+
+![sprin3-deploy2](Imagenes/sprint3-deployment-evidence2.png)
+
+![sprin3-deploy3](Imagenes/sprint3-deployment-evidence3.png)
+
+![sprin3-deploy4](Imagenes/sprint3-deployment-evidence4.png)
+
+![sprin3-deploy5](Imagenes/sprint3-deployment-evidence5.png)
+
+Aqui el URL del deploy: [http://becodebackend-gtc5d8agcmd9cjab.canadacentral-01.azurewebsites.net](http://becodebackend-gtc5d8agcmd9cjab.canadacentral-01.azurewebsites.net)
+
+Los endpoints se encuentran en el codigo.
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+![sprint3-insights](Imagenes/sprint3-insights.png)
 
 ## 5.3. Validation Interviews.
 
@@ -2044,69 +2062,50 @@ A través de las preguntas planteadas, se lograron identificar diversas áreas d
 
 Link de la entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317566_upc_edu_pe/EbDX9R-FOmNHrdZCW6Pp7d8BQp_3dJ7DIAJW7TaQR1ltsA?e=CRXzqE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317566_upc_edu_pe/EbDX9R-FOmNHrdZCW6Pp7d8BQp_3dJ7DIAJW7TaQR1ltsA?e=CRXzqE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-## Entrevista 4:
-
-Nombre:
-
-Capturas:
-
-Descripción:
-
-Link de la entrevista:
-
-## Entrevista 5:
-
-Nombre:
-
-Capturas:
-
-Descripción:
-
-Link de la entrevista:
-
 ### 5.3.3. Evaluaciones según heurísticas.
+
 En este apartado se analizan los resultados de las distintas opiniones de los usuarios que probaron la aplicación, pues se busca encontrar posibles puntos de mejora para desarrollos posteriores siguiendo las 10 heurísticas de usabilidad de Jakob Nielsen.
 
 1. Visibilidad del estado del sistema
-Fortaleza: No se reportaron problemas de retroalimentación o confusión sobre lo que está ocurriendo en la aplicación.
+   Fortaleza: No se reportaron problemas de retroalimentación o confusión sobre lo que está ocurriendo en la aplicación.
 
 Evidencia: El usuario pudo navegar sin dificultad y destacó la buena organización de la información.
 
 Sugerencia: Asegurarse de que elementos como cargas, acciones completadas o cambios de estado estén siempre acompañados de retroalimentación visual (loaders, banners, etc.).
 
 2. Relación entre el sistema y el mundo real
-Fortaleza: Los botones y el contenido fueron considerados claros y bien organizados.
+   Fortaleza: Los botones y el contenido fueron considerados claros y bien organizados.
 
 Evidencia: “Los botones eran muy claros”, “el contenido estaba bien organizado”.
 
 Sugerencia: Mantener la comunicación en lenguaje simple y directo, especialmente en formularios o botones de acción.
 
 3. Control y libertad del usuario
-Fortaleza: No se mencionaron errores ni obstáculos para volver atrás o corregir acciones.
+   Fortaleza: No se mencionaron errores ni obstáculos para volver atrás o corregir acciones.
 
 Sugerencia: Asegurar siempre opciones como "cancelar", "editar", y "deshacer", especialmente en acciones sensibles como publicaciones o contactos con otros usuarios.
 
 4. Consistencia y estándares
-Fortaleza: El usuario no reportó inconsistencias. La interfaz fue bien recibida en cuanto a claridad y diseño visual.
+   Fortaleza: El usuario no reportó inconsistencias. La interfaz fue bien recibida en cuanto a claridad y diseño visual.
 
 Evidencia: “Colores indicados”, “la interfaz no es engorrosa”.
 
 Sugerencia: Seguir utilizando íconos y patrones visuales comunes, sobre todo en una app que conecta profesionales (mantener estándares UX aumenta la confianza).
 
 5. Prevención de errores
-Fortaleza: No se reportaron errores ni acciones confusas.
+   Fortaleza: No se reportaron errores ni acciones confusas.
 
 Sugerencia: En secciones sensibles como el contacto con inversionistas o publicación de perfiles, incluir advertencias claras (“¿Estás seguro de enviar este mensaje?”, “Este perfil será visible públicamente”).
 
 6. Reconocer antes que recordar
-Fortaleza: La organización por secciones ayudó al usuario a encontrar la información sin tener que recordar pasos.
+   Fortaleza: La organización por secciones ayudó al usuario a encontrar la información sin tener que recordar pasos.
 
 Evidencia: “Contenido bien organizado en distintas secciones”.
 
 Sugerencia: Mantener elementos clave visibles siempre (barra de navegación fija, accesos directos, menús claros).
 
 7. Flexibilidad y eficiencia de uso
-Oportunidad de mejora detectada:
+   Oportunidad de mejora detectada:
 
 “Carencia de una especie de guía que enseñe a los nuevos usuarios cómo funciona la aplicación”.
 
@@ -2121,23 +2120,23 @@ Incluir un botón de “¿Cómo funciona?” accesible desde el menú principal.
 O bien una sección tipo FAQ o video corto de 1 minuto que explique las funciones clave.
 
 8. Estética y diseño minimalista
-Fortaleza: Colores bien elegidos, diseño no sobrecargado, navegación clara.
+   Fortaleza: Colores bien elegidos, diseño no sobrecargado, navegación clara.
 
 Evidencia: “Los colores eran los indicados”, “la interfaz no es engorrosa al punto de confundir al usuario”.
 
 Sugerencia: Continuar priorizando simplicidad visual con foco en contenido útil.
 
 9. Ayudar a reconocer, diagnosticar y recuperar errores
-Fortaleza: No se mencionaron problemas técnicos o errores.
+   Fortaleza: No se mencionaron problemas técnicos o errores.
 
 Sugerencia: Asegurar mensajes claros para casos como fallas al subir un archivo, errores de conexión o validaciones de formulario. Por ejemplo: “Falta completar este campo”, “No se pudo enviar el mensaje, inténtalo más tarde”.
 
 10. Ayuda y documentación
-Oportunidad de mejora importante:
+    Oportunidad de mejora importante:
 
 Se destaca como único punto negativo la ausencia de una guía o documentación para el nuevo usuario.
 
-Sugerencia a futuro: 
+Sugerencia a futuro:
 
 - Agregar un tour guiado al ingresar por primera vez.
 
@@ -2146,6 +2145,8 @@ Sugerencia a futuro:
 - Videos explicativos breves o documentación tipo “primeros pasos”.
 
 ## 5.4. Video About-the-Product.
+
+[https://drive.google.com/file/d/1z7i5TUsgxfwzsQSgOn4XVncPAiRCvW-R/view?usp=sharing](https://drive.google.com/file/d/1z7i5TUsgxfwzsQSgOn4XVncPAiRCvW-R/view?usp=sharing)
 
 ## Conclusiones
 
