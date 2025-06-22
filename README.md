@@ -1945,6 +1945,9 @@ Aqui se demuestra la ejecucion de la API y creacion de la base de datos:
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Para esta nueva entrega se desarrollo el backend, el cual servirá como base datos la cual se encargará de registrar la información de los usuarios que usen la app en tablas.
+El link al repositorio: https://github.com/G5-Open-Source/backend
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
