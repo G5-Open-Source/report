@@ -1972,18 +1972,18 @@ Los endpoints se encuentran en el codigo.
 
 #### 5.2.4.1. Sprint Planning 4.
 
-| Sprint #                           | Sprint 4 |
-| ---------------------------------- | -------- |
-| **Date**                           |          |
-| Time                               |          |
-| Location                           |          |
-| Prepared By                        |          |
-| Attendees (to planning meeting)    |          |
-| Sprint n - 3 Review Summary        |          |
-| Sprint n - 3 Retrospective Summary |          |
-| Sprint 4 Goal                      |          |
-| Sprint 4 Velocity                  |          |
-| Sum of Story Points                |          |
+| Sprint #                           | Sprint 4                                                                                                                       |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Date**                           | 2025-07-09                                                                                                                     |
+| Time                               | 4:00 PM                                                                                                                        |
+| Location                           | Virtual - Meet                                                                                                                 |
+| Prepared By                        | Rodrigo Liberato                                                                                                               |
+| Attendees (to planning meeting)    | Adriana Maria Diestra Zambrano, Rodrigo Liberato, Renato Yauri Chocce, Kael Lagos Rivera, Diego Antonio Seijas Vasquez Gutarra |
+| Sprint n - 4 Review Summary        | En el sprint anterior se implementó el backend base para la plataforma, permitiendo registrar usuarios y compañías.            |
+| Sprint n - 4 Retrospective Summary | Se identificó la necesidad de diferenciar los formularios y procesos de registro por tipo de usuario (freelancer y startup).   |
+| Sprint 4 Goal                      | Desarrollar los registros diferenciados de freelancers y startups, permitir la creación de proyectos y su visibilidad pública. |
+| Sprint 4 Velocity                  | Se planificaron 4 historias de usuario con un enfoque en el flujo inicial del sistema y conexión frontend-backend.             |
+| Sum of Story Points                | 4                                                                                                                              |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 
