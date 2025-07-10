@@ -2262,6 +2262,10 @@ Sugerencia a futuro:
 
 [https://drive.google.com/file/d/1z7i5TUsgxfwzsQSgOn4XVncPAiRCvW-R/view?usp=sharing](https://drive.google.com/file/d/1z7i5TUsgxfwzsQSgOn4XVncPAiRCvW-R/view?usp=sharing)
 
+## 5.5. Video About-the-Team.
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ETjrHwL3QMlItZSIfW6kiXoBd_S8GnFjYaN8cJpeW94Hjg?e=aGOWaW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/ETjrHwL3QMlItZSIfW6kiXoBd_S8GnFjYaN8cJpeW94Hjg?e=aGOWaW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Conclusiones
 
 A partir de la información obtenida en distintas páginas web y analizar las entrevistas realizadas hemos llegado a la conclusión de que hoy en día es dificil tener la suficiente confienza en desarrolladores Freelance para el desarrollo de proyectos, esto debido a la falta de profesionalismo de algunos o la poca confianza que llegan a transmitir a los inversionistas que son los que suelen solicitar sus servicios. Es algo que con el pasar de los años llegó a empeorar debido a la nula intención de las compañias con respecto a encontrar una solución para este tipo de problemas, además que en muchos casos llegan a haber pleitos entre ambas partes sin la posibilidad de encontrar una solución que llegué a resolver el conflicto en cuestión.
