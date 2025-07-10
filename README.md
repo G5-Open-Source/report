@@ -1968,6 +1968,111 @@ Los endpoints se encuentran en el codigo.
 
 ![sprint3-insights](Imagenes/sprint3-insights.png)
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+
+| Sprint #                           | Sprint 4 |
+| ---------------------------------- | -------- |
+| **Date**                           |          |
+| Time                               |          |
+| Location                           |          |
+| Prepared By                        |          |
+| Attendees (to planning meeting)    |          |
+| Sprint n - 3 Review Summary        |          |
+| Sprint n - 3 Retrospective Summary |          |
+| Sprint 4 Goal                      |          |
+| Sprint 4 Velocity                  |          |
+| Sum of Story Points                |          |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Liberato Saldaña Rodrigo            | Libeman10       | L                   |
+| Adriana Maria Diestra Zambrano      | adriiiiii123    | C                   |
+| Renato Yauri Chocce                 | JavierRog       | C                   |
+| Kael Lagos Rivera                   | Kaellagos       | C                   |
+| Diego Antonio Seijas Vasquez        | NotSeijas       | C                   |
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+| **Sprint #**   | Sprint 4                          |        |                             |                                                                                                                                 |                      |                  | ---------- |
+| -------------- | --------------------------------- | ------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                   |        |                             |                                                                                                                                 |                      |                  |            |
+| **ID**         | **Título**                        | **ID** | **Título**                  | **Descripción**                                                                                                                 | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| US-48          | Registro de usuario Freelancer    | T48    | Registrar cuenta Freelancer | Como freelancer, quiero registrarme en la plataforma para poder ofrecer mis servicios y postular a proyectos.                   | 5                    | Rodrigo Liberato | Done       |
+| US-49          | Registro de usuario Startup       | T49    | Registrar cuenta Startup    | Como startup, quiero crear una cuenta para poder publicar proyectos y contratar freelancers.                                    | 5                    | Adriana Diestra  | Done       |
+| US-50          | Registro de nuevos proyectos      | T50    | Crear proyecto              | Como startup, quiero registrar nuevos proyectos para atraer freelancers que puedan trabajar en ellos.                           | 6                    | Diego Seijas     | Done       |
+| US-51          | Visibilidad de proyectos públicos | T51    | Ver listado de proyectos    | Como freelancer, quiero ver una lista de proyectos disponibles para decidir en cuál postular según mis habilidades e intereses. | 4                    | Kael Lagos       | Done       |
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+| Repository                                | Branch | Commit ID | Commit Message                                             | Commit Message Body | Committed on (Date) |
+| ----------------------------------------- | ------ | --------- | ---------------------------------------------------------- | ------------------- | ------------------- |
+| https://github.com/G5-Open-Source/backend | main   |           | feat: added cors                                           |                     | 17 hours ago        |
+| https://github.com/G5-Open-Source/backend | main   |           | fix(user): fixed resource                                  |                     | 17 hours ago        |
+| https://github.com/G5-Open-Source/backend | main   |           | feat(user): added userroles                                |                     | 20 hours ago        |
+| https://github.com/G5-Open-Source/backend | main   |           | feat(message): allow message creation without ID using DTO |                     | 3 days ago          |
+| https://github.com/G5-Open-Source/backend | main   |           | feat(pom.xml): installed swagger                           |                     | 3 days ago          |
+| https://github.com/G5-Open-Source/backend | main   |           | fixed connection with database                             |                     | 4 days ago          |
+| https://github.com/G5-Open-Source/backend | main   |           | fix(usercontext): added enable/paAuditing                  |                     | 3 weeks ago         |
+| https://github.com/G5-Open-Source/backend | main   |           | fix(usercontext): resource fix                             |                     | 3 weeks ago         |
+| https://github.com/G5-Open-Source/backend | main   |           | fix application properties                                 |                     | 3 weeks ago         |
+| https://github.com/G5-Open-Source/backend | main   |           | Fix(usercontext): resource fix                             |                     | 3 weeks ago         |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+![execution-sprint4](Imagenes/sprint4-execution1.png)
+
+![execution-sprint4](Imagenes/sprint4-execution2.png)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+| Nombre de Endpoint                        | Acciones Implementadas | Sintaxis de llamada                      | Especificación de parámetros                   | Ejemplo de llamada                        | Explicación del Response                   |
+| ----------------------------------------- | ---------------------- | ---------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| **publication-controller**                |                        |                                          |                                                |                                           |                                            |
+| PUT /api/publications/{id}                | Actualizar publicación | `PUT /api/publications/123`              | `id`: ID de la publicación (entero)            | `PUT /api/publications/123`               | Retorna la publicación actualizada         |
+| DELETE /api/publications/{id}             | Eliminar publicación   | `DELETE /api/publications/123`           | `id`: ID de la publicación (entero)            | `DELETE /api/publications/123`            | Retorna estado 204 (No Content)            |
+| POST /api/publications                    | Crear publicación      | `POST /api/publications`                 | Body: JSON con datos de la publicación         | `POST /api/publications`                  | Retorna la nueva publicación creada        |
+| GET /api/publications/search              | Buscar publicaciones   | `GET /api/publications/search?query=...` | Parámetros de query: `query` (string opcional) | `GET /api/publications/search?query=tech` | Retorna lista de publicaciones filtradas   |
+| **user-controller**                       |                        |                                          |                                                |                                           |                                            |
+| POST /api/users/startup                   | Crear startup          | `POST /api/users/startup`                | Body: JSON con datos de la startup             | `POST /api/users/startup`                 | Retorna la startup creada                  |
+| POST /api/users/freeLancer                | Crear freelancer       | `POST /api/users/freeLancer`             | Body: JSON con datos del freelancer            | `POST /api/users/freeLancer`              | Retorna el freelancer creado               |
+| GET /api/users/startups                   | Listar startups        | `GET /api/users/startups`                | Sin parámetros                                 | `GET /api/users/startups`                 | Retorna lista de todas las startups        |
+| GET /api/users/startups/{startupsId}      | Obtener startup        | `GET /api/users/startups/456`            | `startupsId`: ID de la startup (entero)        | `GET /api/users/startups/456`             | Retorna detalles de la startup específica  |
+| GET /api/users/freeLancers                | Listar freelancers     | `GET /api/users/freeLancers`             | Sin parámetros                                 | `GET /api/users/freeLancers`              | Retorna lista de todos los freelancers     |
+| GET /api/users/freeLancers/{freeLancerId} | Obtener freelancer     | `GET /api/users/freeLancers/789`         | `freeLancerId`: ID del freelancer (entero)     | `GET /api/users/freeLancers/789`          | Retorna detalles del freelancer específico |
+| **project-controller**                    |                        |                                          |                                                |                                           |                                            |
+| GET /api/projects                         | Listar proyectos       | `GET /api/projects`                      | Sin parámetros                                 | `GET /api/projects`                       | Retorna lista de todos los proyectos       |
+| POST /api/projects                        | Crear proyecto         | `POST /api/projects`                     | Body: JSON con datos del proyecto              | `POST /api/projects`                      | Retorna el nuevo proyecto creado           |
+| **messaging-controller**                  |                        |                                          |                                                |                                           |                                            |
+| POST /api/messages                        | Enviar mensaje         | `POST /api/messages`                     | Body: JSON con contenido del mensaje           | `POST /api/messages`                      | Retorna el mensaje enviado                 |
+| GET /api/messages/{userId}                | Obtener mensajes       | `GET /api/messages/101`                  | `userId`: ID del usuario (entero)              | `GET /api/messages/101`                   | Retorna lista de mensajes del usuario      |
+| **hiring-controller**                     |                        |                                          |                                                |                                           |                                            |
+| GET /api/hirings                          | Listar contrataciones  | `GET /api/hirings`                       | Sin parámetros                                 | `GET /api/hirings`                        | Retorna lista de contrataciones            |
+| POST /api/hirings                         | Crear contratación     | `POST /api/hirings`                      | Body: JSON con datos de la contratación        | `POST /api/hirings`                       | Retorna la contratación creada             |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+_Para esta entrega se presenta el despliegue del software y su funcionamiento._
+
+![sprint4-deploy1](Imagenes/sprint4-deployment1.png)
+
+![sprint4-deploy2](Imagenes/sprint4-deployment2.png)
+
+Aqui el URL del deploy:  
+[http://becodebackend-gtcd8agcmd9cjab.canadacentral-01.azurewebsites.net](http://becodebackend-gtc5d8agcmd9cjab.canadacentral-01.azurewebsites.net)
+
+Aqui el URL del swagger:  
+[https://becodebackend-gtc5d8agcmd9cjab.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/](https://becodebackend-gtc5d8agcmd9cjab.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+![sprint4-insights](Imagenes/sprint4-insights1.png)
+
+![sprint4-insights2](Imagenes/sprint4-insights2.png)
+
 ## 5.3. Validation Interviews.
 
 En está sección se detalla la experiencia de los usuarios al momento de usar la aplicación mediante el registro de entrevistas.
