@@ -29,7 +29,7 @@ Desarrollo de aplicaciones Open Source <br>
 
 </div>
 
-<p align="center"><strong>Mayo 2025</strong></p>
+<p align="center"><strong>Julio 2025</strong></p>
 
 # Registro de Versiones del Informe
 
